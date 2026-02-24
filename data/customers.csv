@@ -1,0 +1,205 @@
+customer_id,name,email,age,city,country,signup_date,favorite_team,membership_tier,gender
+CUST-0138,Fabio Adams,,42,London,UK,05/23/2025,AC Milan,free,male
+CUST-0064,Francesco Williams,francesco.williams@outlook.com,39,London,UK,2025-01-25,AC Milan,bronze,female
+CUST-0066,Ahmed Clark,ahmedclark39@hotmail.com,19,milan,Italy,2024-01-28,Inter Milan,free,female
+CUST-0078,Francesco Davis,francesco.davis79@libero.it,55,naples,Italy,2020-05-07,Juventus,silver,male
+CUST-0075,Stefano Taylor,stefano_taylor89@gmail.com,45,New York,USA,01/25/2022,Inter Milan,free,female
+CUST-0020,Alessandro Santoro,alessandro.santoro@hotmail.com,24,Rome,Italy,2024-10-05,Inter Milan,silver,
+CUST-0030,Claudia Palumbo,claudia_palumbo@libero.it,42,dubai,UAE,12/19/2024,,gold,female
+CUST-0028,Federica Clark,federicaclark72@libero.it,57,New York,USA,2024-04-17,Inter Milan,free,female
+CUST-0167,Stefano Mariani,stefano.mariani96@hotmail.com,,London,UK,2020-04-01,Inter Milan,free,Male
+CUST-0145,William Santoro,william.santoro@icloud.com,,Florence,Italy,26 May 2023,Inter Milan,free,male
+CUST-0041,Emma Marchetti,emma.marchetti2@libero.it,48,Turin,Italy,2021-07-26,AC Milan,bronze,non-binary
+CUST-0043,Cristina Colombo,cristina.colombo@yahoo.it,60,Milan,Italy,2022-01-15,AC Milan,gold,male
+CUST-0111,Maria Rizzo,maria_rizzo16@libero.it,70,Rome,Italy,03/31/2021,AC Milan,gold,male
+CUST-0195,Sarah Moretti,sarah_moretti36@hotmail.com,61,Milan,Italy,12/09/2021,AC Milan,bronze,non-binary
+CUST-0151,Oliver Gallo,olivergallo22@yahoo.it,26,Milan,Italy,11/02/2023,Napoli,gold,female
+CUST-0090,Amelia Marino,amelia.marino92@gmail.com,36,Milan,Italy,09/11/2021,AC Milan,,non-binary
+CUST-0191,Claudia Hall,claudia_hall@libero.it,37,Milan,Italy,2020-04-17,Juventus,silver,male
+CUST-0051,Roberta Khan,robertakhan@libero.it,52,Turin,Italy,29 Oct 2022,Juventus,free,female
+CUST-0198,Riccardo Martin,riccardo.martin@libero.it,21,Milan,Italy,2024-11-12,AC Milan,silver,female
+CUST-0089,Anna Giordano,annagiordano3@gmail.com,40,Milan,Italy,05 May 2025,AC Milan,bronze,male
+CUST-0116,Valentina Gatti,valentinagatti@libero.it,,Milan,Italy,03/12/2021,Juventus,bronze,non-binary
+CUST-0185,Mohammed Clark,mohammedclark94@libero.it,18,milan,Italy,02/14/2022,,gold,male
+CUST-0123,Federica Santoro,federica.santoro@hotmail.com,,Milan,Italy,26 Jul 2023,Napoli,gold,
+CUST-0112,Daniele Williams,danielewilliams@gmail.com,57,london,UK,01/13/2022,AC Milan,gold,female
+CUST-0180,Sophie Esposito,sophie.esposito74@yahoo.it,71,Dubai,UAE,2021-06-23,AC Milan,silver,female
+CUST-0016,Valentina Marino,valentinamarino83@libero.it,38,Dubai,UAE,13 Aug 2020,AC Milan,free,female
+CUST-0124,Sophie Ferrari,sophie_ferrari@icloud.com,31,London,UK,24 Jun 2020,AC Milan,bronze,male
+CUST-0071,Marco Gallo,marco.gallo73@gmail.com,27,London,UK,04/05/2020,AC Milan,silver,male
+CUST-0034,Federica Martin,federica_martin99@outlook.com,,Florence,Italy,12/21/2020,AC Milan,bronze,Male
+CUST-0103,Giulia Jones,giuliajones@outlook.com,,Dubai,UAE,2023-12-21,Juventus,bronze,FEMALE
+CUST-0054,Claudia Ferrari,claudiaferrari@hotmail.com,,Dubai,UAE,12/07/2021,,gold,MALE
+CUST-0192,Thomas Gatti,thomas.gatti@icloud.com,34,Rome,Italy,2020-07-27,AC Milan,free,female
+CUST-0162,Lorenzo Marino,lorenzo.marino76@yahoo.it,45,Rome,Italy,03/10/2021,AC Milan,bronze,female
+CUST-0135,David Jones,,61,Dubai,UAE,2024-08-14,Napoli,gold,male
+CUST-0080,Francesco Fontana,francesco.fontana72@yahoo.it,34,London,UK,15 Feb 2025,AC Milan,bronze,male
+CUST-0007,Federica Johnson,federica_johnson@hotmail.com,64,Milan,Italy,26 Jul 2024,AC Milan,bronze,male
+CUST-0161,Charlotte Marino,charlottemarino@gmail.com,51,NAPLES,Italy,03/11/2025,Roma,silver,male
+CUST-0004,Martina Rizzo,martina_rizzo82@outlook.com,41,ROME,Italy,04/09/2022,,gold,female
+CUST-0035,Lorenzo Martin,,68,Milan,Italy,07/13/2024,Inter Milan,bronze,male
+CUST-0083,Stefano Pellegrini,stefano.pellegrini53@hotmail.com,64,Milan,Italy,10/12/2023,Napoli,bronze,female
+CUST-0184,Paola Caruso,paolacaruso@icloud.com,38,Dubai,UAE,03/14/2025,AC Milan,gold,non-binary
+CUST-0166,Fabio Esposito,fabio.esposito12@gmail.com,47,FLORENCE,Italy,06/19/2020,AC Milan,silver,male
+CUST-0097,Fabio Marchetti,fabio.marchetti47@libero.it,69,Dubai,UAE,02/07/2021,Napoli,gold,MALE
+CUST-0024,Giovanni Mariani,giovanni_mariani9@icloud.com,38,Florence,Italy,22 Jan 2021,,bronze,female
+CUST-0126,Elisa Greco,elisa_greco@icloud.com,48,Milan,Italy,01 Dec 2021,AC Milan,silver,female
+CUST-0061,Luca Taylor,,22,florence,Italy,12/13/2023,,bronze,female
+CUST-0174,Elisa Ricci,elisaricci@libero.it,37,Turin,Italy,2021-01-07,AC Milan,silver,female
+CUST-0073,William Moretti,william.moretti29@icloud.com,21,Milan,Italy,07/25/2022,AC Milan,silver,female
+CUST-0070,Maria Mariani,maria.mariani98@icloud.com,32,new york,USA,10/08/2024,Napoli,gold,female
+CUST-0053,Elisa Davis,elisa.davis10@yahoo.it,39,Florence,Italy,05/19/2023,Roma,gold,female
+CUST-0107,Elena Brown,elena_brown91@libero.it,70,Milan,Italy,26 Oct 2022,Roma,gold,non-binary
+CUST-0109,David De Luca,david_de luca65@hotmail.com,64,Milan,Italy,2021-03-05,Juventus,silver,female
+CUST-0133,Giovanni Taylor,giovannitaylor33@yahoo.it,68,Rome,Italy,2023-03-05,Inter Milan,free,female
+CUST-0015,Roberto Bianchi,robertobianchi@libero.it,25,dubai,UAE,11/04/2024,AC Milan,gold,female
+CUST-0015,Roberto Bianchi,robertobianchi@libero.it,25,Dubai,UAE,11/04/2024,AC Milan,gold,female
+CUST-0095,Roberto Marchetti,robertomarchetti@yahoo.it,67,MILAN,Italy,2023-10-18,AC Milan,bronze,female
+CUST-0113,Giuseppe Rossi,giusepperossi21@hotmail.com,,Turin,Italy,2021-09-11,AC Milan,bronze,male
+CUST-0188,William Lombardi,william_lombardi@gmail.com,43,Naples,Italy,05 Mar 2024,AC Milan,gold,male
+CUST-0060,Thomas Hall,thomas_hall72@gmail.com,68,Rome,Italy,01 Apr 2022,Juventus,gold,female
+CUST-0072,Andrea Greco,andrea.greco@hotmail.com,23,Milan,Italy,2023-08-10,Juventus,free,male
+CUST-0011,Sara Bianchi,sarabianchi31@hotmail.com,49,milan,Italy,15 Feb 2021,,free,male
+CUST-0013,Maria Colombo,maria.colombo@gmail.com,66,NEW YORK,USA,2021-05-31,Inter Milan,free,female
+CUST-0194,Alessandro Gallo,alessandro_gallo@icloud.com,56,Florence,Italy,06/02/2023,AC Milan,free,
+CUST-0148,Francesca Palumbo,,58,Florence,Italy,05/14/2023,AC Milan,silver,Male
+CUST-0115,Giuseppe Smith,giuseppe_smith@gmail.com,,Milan,Italy,26 Nov 2023,Roma,bronze,female
+CUST-0099,Mohammed Mancini,mohammed_mancini67@gmail.com,34,Milan,Italy,07 Sep 2024,AC Milan,silver,female
+CUST-0018,Antonio Rizzo,antonio_rizzo@hotmail.com,39,Milan,Italy,05/24/2025,AC Milan,,male
+CUST-0163,William Moretti,william.moretti@hotmail.com,43,milan,Italy,2020-06-18,AC Milan,free,male
+CUST-0181,Antonio Jones,antonio.jones64@outlook.com,49,Milan,Italy,2020-06-23,AC Milan,silver,male
+CUST-0093,Cristina Gatti,cristina_gatti@gmail.com,60,Florence,Italy,2023-02-02,Juventus,silver,non-binary
+CUST-0160,Francesco Marino,francescomarino29@gmail.com,18,Florence,Italy,2021-01-09,Inter Milan,silver,female
+CUST-0059,Giulia Ferrara,giulia.ferrara@icloud.com,41,Naples,Italy,04/26/2022,AC Milan,bronze,Non-binary
+CUST-0038,Giovanni Romano,giovanni.romano93@libero.it,,London,UK,2024-01-19,Roma,free,male
+CUST-0141,Silvia Ali,silviaali26@gmail.com,26,Rome,Italy,14 May 2023,Inter Milan,free,female
+CUST-0006,Riccardo Khan,riccardo_khan75@yahoo.it,,Dubai,UAE,05 Mar 2021,Juventus,free,male
+CUST-0009,Matteo Romano,matteoromano@icloud.com,67,Milan,Italy,16 Jan 2024,Juventus,silver,male
+CUST-0157,Anna Palumbo,anna_palumbo@hotmail.com,23,London,UK,2023-11-25,Roma,bronze,female
+CUST-0084,Paola Pellegrini,paola_pellegrini99@libero.it,,Naples,Italy,2021-05-18,AC Milan,silver,female
+CUST-0158,Maria Jones,maria.jones73@yahoo.it,61,London,UK,05/22/2020,AC Milan,free,male
+CUST-0065,Chiara Costa,chiaracosta@outlook.com,34,Milan,Italy,2023-07-31,Juventus,gold,female
+CUST-0102,Valentina Marino,valentina_marino@yahoo.it,,Turin,Italy,04/11/2022,Juventus,silver,male
+CUST-0142,David Conti,david_conti@libero.it,38,Milan,Italy,20 May 2025,Juventus,silver,male
+CUST-0110,Thomas Hall,thomashall89@icloud.com,48,Milan,Italy,2022-02-04,AC Milan,bronze,male
+CUST-0040,Ahmed Khan,ahmedkhan77@gmail.com,71,milan,Italy,2021-12-07,Inter Milan,silver,male
+CUST-0045,Sarah Jones,sarah_jones@libero.it,62,Rome,Italy,04 Jun 2023,AC Milan,free,male
+CUST-0029,Silvia Wilson,silvia.wilson36@gmail.com,,Milan,Italy,2022-04-24,Inter Milan,bronze,female
+CUST-0032,Roberta Jones,robertajones@hotmail.com,45,Milan,Italy,12/05/2023,AC Milan,gold,male
+CUST-0128,Sara Moretti,sara.moretti@hotmail.com,25,London,UK,01/27/2024,AC Milan,silver,male
+CUST-0114,Roberto Ferrara,roberto.ferrara5@libero.it,29,Dubai,UAE,06/18/2022,AC Milan,gold,male
+CUST-0087,Davide Lombardi,davide.lombardi@gmail.com,33,turin,Italy,19 Apr 2025,Juventus,gold,male
+CUST-0003,Alessandro Palumbo,,53,Milan,Italy,05/07/2025,Napoli,bronze,female
+CUST-0199,Laura Marino,lauramarino@outlook.com,34,Florence,Italy,08/07/2022,,bronze,male
+CUST-0068,Simone Ferrara,simone_ferrara59@libero.it,64,milan,Italy,2023-08-18,Inter Milan,bronze,male
+CUST-0042,Amelia Jones,amelia_jones@gmail.com,53,London,UK,26 Feb 2025,Napoli,silver,female
+CUST-0002,Claudia Ferrara,claudia.ferrara58@gmail.com,66,new york,USA,2023-08-06,Inter Milan,bronze,male
+CUST-0048,Elisa Esposito,elisa.esposito67@icloud.com,66,Turin,Italy,10/05/2023,AC Milan,silver,male
+CUST-0094,Anna Rinaldi,annarinaldi@hotmail.com,46,Dubai,UAE,2023-03-01,Juventus,gold,
+CUST-0026,James Taylor,james_taylor@hotmail.com,37,Milan,Italy,09/10/2021,AC Milan,gold,male
+CUST-0069,Amelia Marino,ameliamarino8@hotmail.com,25,Turin,Italy,2023-08-07,,gold,non-binary
+CUST-0005,Thomas Barbieri,thomas.barbieri@yahoo.it,43,Milan,Italy,2021-10-17,Napoli,bronze,male
+CUST-0131,Ilaria Ferrari,ilaria.ferrari@gmail.com,,Milan,Italy,13 May 2025,AC Milan,gold,female
+CUST-0152,Thomas Marchetti,thomas_marchetti91@libero.it,28,Milan,Italy,05 Apr 2020,AC Milan,bronze,male
+CUST-0062,Federica Mariani,federicamariani96@icloud.com,65,London,UK,13 Jul 2023,Roma,gold,female
+CUST-0179,Daniele Gallo,daniele.gallo@gmail.com,69,LONDON,UK,01 Jul 2020,Juventus,bronze,female
+CUST-0139,Francesca Pellegrini,francescapellegrini72@gmail.com,,Milan,Italy,17 Sep 2024,AC Milan,bronze,female
+CUST-0055,Tommaso Santoro,tommaso_santoro@outlook.com,51,Turin,Italy,13 Jul 2021,AC Milan,silver,male
+CUST-0127,Sara Davis,,52,london,UK,14 Aug 2021,AC Milan,bronze,male
+CUST-0056,Riccardo Clark,riccardo.clark60@hotmail.com,52,Milan,Italy,2023-10-04,Inter Milan,bronze,female
+CUST-0187,Martina Bruno,martinabruno@yahoo.it,56,Dubai,UAE,2024-02-08,,gold,male
+CUST-0017,Fabio Mariani,fabio_mariani21@icloud.com,63,ROME,Italy,2025-07-24,Juventus,gold,female
+CUST-0012,Thomas Davis,thomasdavis@libero.it,64,Rome,Italy,2020-12-05,AC Milan,silver,male
+CUST-0120,Elena Pellegrini,,44,Turin,Italy,2020-06-28,Juventus,free,FEMALE
+CUST-0117,Marco Giordano,marcogiordano@gmail.com,60,Milan,Italy,11 Aug 2022,AC Milan,free,female
+CUST-0101,Filippo Sartori,filippo.sartori88@yahoo.it,47,MILAN,Italy,05 Jul 2020,AC Milan,free,male
+CUST-0063,Anna Colombo,annacolombo48@gmail.com,43,milan,Italy,01/14/2021,Juventus,gold,female
+CUST-0132,William Marchetti,william.marchetti1@gmail.com,19,Naples,Italy,2022-05-03,Juventus,bronze,male
+CUST-0153,Davide Jones,davide.jones35@icloud.com,70,London,UK,10/03/2023,Juventus,silver,
+CUST-0074,Elena Williams,elenawilliams@libero.it,65,Milan,Italy,02/28/2020,Juventus,gold,female
+CUST-0022,William Conti,william_conti43@gmail.com,67,milan,Italy,06/16/2025,Juventus,free,female
+CUST-0200,Marco Smith,marcosmith48@yahoo.it,61,Milan,Italy,17 Jul 2020,Inter Milan,bronze,female
+CUST-0146,Valentina Palumbo,valentinapalumbo@yahoo.it,19,Turin,Italy,07/06/2022,Inter Milan,gold,male
+CUST-0027,David Rinaldi,david_rinaldi@outlook.com,59,florence,Italy,2020-11-27,Inter Milan,silver,male
+CUST-0140,Paola Johnson,paola.johnson88@outlook.com,26,Milan,Italy,2022-04-13,Juventus,silver,male
+CUST-0165,Francesca Martin,francesca_martin@yahoo.it,23,Rome,Italy,07 May 2024,AC Milan,silver,female
+CUST-0001,James Ricci,james.ricci95@outlook.com,,Milan,Italy,14 Nov 2020,Roma,,female
+CUST-0008,Lorenzo Wilson,lorenzo_wilson@outlook.com,41,London,UK,08/02/2024,Juventus,gold,female
+CUST-0082,Giuseppe Greco,giuseppe.greco@icloud.com,67,NAPLES,Italy,2024-06-23,AC Milan,bronze,female
+CUST-0134,Matteo Caruso,matteo_caruso49@gmail.com,58,Milan,Italy,2021-06-16,AC Milan,free,female
+CUST-0046,Fatima Jones,fatimajones3@icloud.com,20,London,UK,06/28/2021,Juventus,free,non-binary
+CUST-0170,Francesco Palumbo,francesco_palumbo40@gmail.com,53,Turin,Italy,20 Feb 2023,AC Milan,bronze,female
+CUST-0125,William Johnson,william.johnson53@yahoo.it,21,Naples,Italy,12 Jan 2025,,silver,female
+CUST-0021,Sophie Fontana,sophie_fontana@yahoo.it,28,London,UK,12/01/2020,Inter Milan,gold,female
+CUST-0171,Ahmed Brown,ahmed.brown@libero.it,,Milan,Italy,12 Dec 2022,Roma,gold,non-binary
+CUST-0081,Matteo Moretti,matteomoretti49@outlook.com,,London,UK,06/23/2024,AC Milan,free,female
+CUST-0037,Fabio Palumbo,fabiopalumbo79@yahoo.it,19,Turin,Italy,06 Oct 2022,AC Milan,free,male
+CUST-0118,Cristina Mancini,cristina.mancini18@outlook.com,47,London,UK,2025-02-24,Inter Milan,free,female
+CUST-0105,Martina Smith,martina_smith98@icloud.com,61,Florence,Italy,2021-02-03,AC Milan,free,male
+CUST-0193,Elisa Ricci,elisa_ricci@icloud.com,55,Naples,Italy,11/07/2020,AC Milan,gold,female
+CUST-0052,Giulia Sartori,giuliasartori49@hotmail.com,68,NEW YORK,USA,04/17/2021,Juventus,gold,Male
+CUST-0036,Fatima Palumbo,fatimapalumbo20@outlook.com,64,Naples,Italy,2025-07-13,AC Milan,free,female
+CUST-0039,Ilaria Santoro,ilaria_santoro96@yahoo.it,62,Turin,Italy,10 Aug 2022,AC Milan,silver,male
+CUST-0154,Riccardo Santoro,riccardo.santoro@outlook.com,31,New York,USA,2024-12-31,,bronze,female
+CUST-0106,Alessandro Ferrari,alessandro.ferrari92@libero.it,51,Turin,Italy,26 Feb 2025,Juventus,silver,male
+CUST-0196,Sarah Ferrara,sarahferrara63@gmail.com,50,london,UK,2020-07-22,AC Milan,free,Male
+CUST-0136,Francesco Moretti,francesco.moretti@icloud.com,71,New York,USA,06 Aug 2024,Inter Milan,free,female
+CUST-0098,Oliver Bianchi,oliver_bianchi60@outlook.com,71,London,UK,2025-06-10,Napoli,silver,female
+CUST-0156,Fabio Greco,fabiogreco@hotmail.com,43,Turin,Italy,2024-11-28,Roma,bronze,female
+CUST-0129,Elena Marchetti,elena_marchetti13@yahoo.it,,Rome,Italy,10 Jul 2023,AC Milan,silver,female
+CUST-0050,Fabio Palumbo,fabiopalumbo19@outlook.com,56,Naples,Italy,02/28/2021,AC Milan,bronze,female
+CUST-0155,Monica Brown,monica.brown42@yahoo.it,54,milan,Italy,05/17/2024,Roma,gold,male
+CUST-0019,Riccardo Bruno,riccardobruno57@icloud.com,18,MILAN,Italy,04/08/2021,Juventus,gold,female
+CUST-0149,Amelia Brown,amelia.brown47@outlook.com,47,Milan,Italy,02/29/2024,Juventus,bronze,female
+CUST-0159,Oliver Moretti,oliver.moretti@hotmail.com,41,Milan,Italy,03/01/2023,Roma,silver,MALE
+CUST-0014,Federica Lombardi,federica_lombardi90@outlook.com,,Milan,Italy,30 Jun 2020,Napoli,gold,female
+CUST-0175,Fabio Santoro,fabio_santoro@hotmail.com,37,milan,Italy,2021-06-24,AC Milan,free,Female
+CUST-0031,Claudia Brown,claudiabrown29@outlook.com,35,Turin,Italy,2020-03-31,Inter Milan,bronze,female
+CUST-0119,Emily Romano,emilyromano58@gmail.com,54,Milan,Italy,2024-08-28,Juventus,silver,female
+CUST-0177,Sarah Caruso,,45,Milan,Italy,2021-10-29,AC Milan,bronze,male
+CUST-0197,Federica Esposito,federica_esposito@yahoo.it,41,New York,USA,04/18/2024,Inter Milan,gold,female
+CUST-0173,Francesca Clark,francesca.clark31@yahoo.it,72,Rome,Italy,05 May 2023,,bronze,male
+CUST-0096,Matteo Hall,matteo_hall86@hotmail.com,22,Naples,Italy,21 Jun 2022,AC Milan,silver,female
+CUST-0085,Matteo Bruno,matteo_bruno@libero.it,23,Dubai,UAE,11/20/2021,Juventus,bronze,Non-binary
+CUST-0154,Riccardo Santoro,riccardo.santoro@outlook.com,30,New York,USA,2024-12-31,,bronze,female
+CUST-0079,Matteo Smith,matteosmith@outlook.com,63,Turin,Italy,27 Sep 2023,Juventus,silver,male
+CUST-0058,Charlotte Mancini,charlottemancini@hotmail.com,30,Florence,Italy,28 Feb 2021,Roma,gold,non-binary
+CUST-0091,Charlotte Esposito,charlotteesposito43@gmail.com,69,Rome,Italy,05/27/2023,,free,female
+CUST-0190,Alessia Palumbo,alessia_palumbo29@icloud.com,21,Milan,Italy,2020-10-27,AC Milan,bronze,female
+CUST-0023,Lorenzo Ali,,56,Dubai,UAE,25 Dec 2020,Inter Milan,silver,male
+CUST-0168,Anna Bruno,anna_bruno@icloud.com,61,London,UK,12/10/2021,,gold,male
+CUST-0086,Fatima Adams,fatimaadams@outlook.com,20,Milan,Italy,2024-01-07,,silver,female
+CUST-0178,Laura Esposito,laura.esposito36@outlook.com,44,Milan,Italy,06/21/2024,AC Milan,gold,non-binary
+CUST-0144,Emily Rinaldi,emily.rinaldi58@icloud.com,43,Naples,Italy,23 Jul 2023,Juventus,gold,female
+CUST-0104,Monica Davis,monicadavis61@icloud.com,17,New York,USA,31 Aug 2023,AC Milan,bronze,female
+CUST-0033,Fatima Romano,,32,FLORENCE,Italy,2025-07-17,AC Milan,gold,non-binary
+CUST-0121,David Bianchi,davidbianchi@libero.it,20,Milan,Italy,07/13/2021,AC Milan,free,male
+CUST-0025,Cristina Jones,cristina_jones@yahoo.it,36,Milan,Italy,06 Dec 2024,Napoli,bronze,female
+CUST-0170,Francesco Palumbo,francesco_palumbo40@gmail.com,54,Turin,Italy,20 Feb 2023,AC Milan,bronze,female
+CUST-0047,Giulia Clark,giulia.clark21@libero.it,62,Turin,Italy,05/29/2023,Juventus,gold,FEMALE
+CUST-0143,Charlotte Williams,charlotte.williams94@hotmail.com,31,Turin,Italy,24 Jun 2022,,gold,female
+CUST-0169,Maria Adams,mariaadams84@outlook.com,38,milan,Italy,2022-09-21,AC Milan,gold,female
+CUST-0044,Federica Bianchi,federicabianchi30@hotmail.com,55,Florence,Italy,2021-09-06,Inter Milan,gold,female
+CUST-0077,Federica Jones,federicajones58@hotmail.com,38,Milan,Italy,2020-07-31,Juventus,free,FEMALE
+CUST-0130,Martina Jones,martina.jones64@yahoo.it,66,NEW YORK,USA,16 Jun 2025,,free,female
+CUST-0092,Ahmed Gatti,ahmed.gatti@icloud.com,36,Rome,Italy,09/05/2020,Inter Milan,bronze,male
+CUST-0172,Elisa Marchetti,elisa.marchetti19@gmail.com,20,Dubai,UAE,02 Jun 2024,Inter Milan,bronze,female
+CUST-0122,Claudia Marino,claudiamarino@outlook.com,52,Rome,Italy,30 Jan 2021,,silver,female
+CUST-0164,Fatima Jones,fatima_jones@libero.it,,Milan,Italy,29 Dec 2024,AC Milan,gold,male
+CUST-0137,Simone Bianchi,simone_bianchi78@yahoo.it,19,Florence,Italy,31 Oct 2023,Juventus,silver,male
+CUST-0176,Giuseppe Conti,giuseppe_conti@icloud.com,55,milan,Italy,08/20/2020,AC Milan,gold,MALE
+CUST-0057,Martina Jones,martina_jones74@hotmail.com,36,milan,Italy,14 May 2023,AC Milan,gold,female
+CUST-0183,Emily Wilson,emily_wilson84@outlook.com,63,Dubai,UAE,03/21/2025,Inter Milan,silver,female
+CUST-0186,Martina Santoro,martinasantoro@libero.it,,New York,USA,07/15/2025,Roma,silver,male
+CUST-0088,Marco Taylor,marco_taylor31@outlook.com,60,Florence,Italy,2024-06-14,Inter Milan,gold,non-binary
+CUST-0049,Fabio Adams,fabio.adams@icloud.com,44,Milan,Italy,18 Dec 2020,Juventus,gold,female
+CUST-0147,Lorenzo Pellegrini,lorenzopellegrini90@yahoo.it,22,Rome,Italy,2020-12-23,AC Milan,bronze,female
+CUST-0182,Giulia Esposito,giulia.esposito@gmail.com,72,Naples,Italy,02/07/2023,AC Milan,bronze,female
+CUST-0150,Filippo Taylor,filippotaylor@yahoo.it,25,MILAN,Italy,12/29/2020,AC Milan,bronze,female
+CUST-0010,Valentina Clark,valentinaclark48@icloud.com,46,milan,Italy,29 Nov 2021,AC Milan,bronze,male
+CUST-0189,James Lombardi,james.lombardi@yahoo.it,68,Rome,Italy,02/28/2024,Roma,bronze,
+CUST-0100,Ahmed Ali,ahmed_ali@gmail.com,23,Milan,Italy,06/15/2025,Napoli,bronze,female
+CUST-0104,Monica Davis,monicadavis61@icloud.com,18,New York,USA,31 Aug 2023,AC Milan,bronze,female
+CUST-0108,Oliver Khan,,48,Milan,Italy,2025-05-08,,free,male
+CUST-0067,Cristina Wilson,cristinawilson71@libero.it,56,Naples,Italy,10 Nov 2023,Juventus,free,male
+CUST-0076,Ilaria Smith,ilaria.smith45@hotmail.com,70,Florence,Italy,03 Apr 2021,AC Milan,gold,male

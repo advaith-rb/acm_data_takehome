@@ -1,0 +1,4605 @@
+[
+  {
+    "id": "SENT-00042",
+    "user": "@futboltakes",
+    "source": "forum",
+    "text": "Half time thoughts: we're dominating possession but need to be clinical",
+    "published_at": "11/18/2025",
+    "topic": "Serie A",
+    "tags": [
+      "football",
+      "serie_a"
+    ],
+    "sentiment_score": -0.434,
+    "engagement": {
+      "likes": 1900,
+      "shares": 986,
+      "comments": 657
+    }
+  },
+  {
+    "id": "SENT-00097",
+    "user": "@baresiita",
+    "source": "reddit",
+    "text": "Milan DNA is real. Even the youth team plays beautiful football.",
+    "published_at": "09/11/2025",
+    "topic": "AC Milan",
+    "tags": [
+      "football",
+      "ac_milan"
+    ],
+    "sentiment_score": null,
+    "engagement": {
+      "likes": 4305,
+      "shares": 705,
+      "comments": 191
+    }
+  },
+  {
+    "id": "SENT-00236",
+    "user": "@roma_boyhd",
+    "source": "forum",
+    "text": "Snow in Milan tomorrow apparently. Time to break out the big coat \ud83e\udd76",
+    "published_at": "2025-10-09T21:50:44Z",
+    "topic": "Fashion Week",
+    "tags": [
+      "fashion_week"
+    ],
+    "sentiment_score": 0.383,
+    "engagement": {
+      "likes": 688,
+      "shares": 1110,
+      "comments": 233
+    }
+  },
+  {
+    "id": "SENT-00251",
+    "user": "@tomoridaily",
+    "source": "twitter",
+    "text": "Scooter almost took me out on Via Torino. Classic Milano.",
+    "published_at": "2025-12-29 18:15",
+    "topic": "F1 Racing",
+    "tags": [
+      "f1_racing"
+    ],
+    "sentiment_score": null,
+    "engagement": {
+      "likes": 3498,
+      "shares": 975,
+      "comments": 542
+    }
+  },
+  {
+    "id": "SENT-00092",
+    "user": "@torino_girldaily",
+    "source": "blog",
+    "text": "Derby della Madonnina tickets are highway robbery at these prices \ud83d\udcb8",
+    "published_at": "09/20/2025",
+    "topic": "AC Milan",
+    "tags": [
+      "football",
+      "ac_milan"
+    ],
+    "sentiment_score": -0.085,
+    "engagement": {
+      "likes": 145,
+      "shares": 273,
+      "comments": 766
+    }
+  },
+  {
+    "id": "SENT-00227",
+    "user": "@seriea",
+    "source": "forum",
+    "text": "Hailstorm delay at the stadium, fans soaked but still singing",
+    "published_at": "2025-11-11T03:50:19Z",
+    "topic": "Weather",
+    "tags": [
+      "weather"
+    ],
+    "sentiment_score": -0.082,
+    "engagement": {
+      "likes": 2675,
+      "shares": 914,
+      "comments": 761
+    }
+  },
+  {
+    "id": "SENT-00031",
+    "user": "@serieax",
+    "source": "news",
+    "text": "VAR ruining football yet again. That was a clear penalty, embarrassing.",
+    "published_at": "26-Oct-2025",
+    "topic": "Serie A",
+    "tags": [
+      "football",
+      "serie_a"
+    ],
+    "sentiment_score": -0.18,
+    "engagement": {
+      "likes": 778,
+      "shares": 125,
+      "comments": 730
+    }
+  },
+  {
+    "id": "SENT-00094",
+    "user": "@meazza2024",
+    "source": "blog",
+    "text": "Venice Film Festival lineup looks incredible this year",
+    "published_at": "2026-01-11T21:35:35Z",
+    "topic": "F1 Racing",
+    "tags": [
+      "f1_racing"
+    ],
+    "sentiment_score": 0.186,
+    "engagement": {
+      "likes": 2105,
+      "shares": 963,
+      "comments": 493
+    }
+  },
+  {
+    "id": "SENT-00196",
+    "user": "@maldinihd",
+    "source": "twitter",
+    "text": "The commute on ATM today was absolutely brutal. 40 mins for 3 stops.",
+    "published_at": "2025-09-17T18:11:02Z",
+    "topic": "Tech News",
+    "tags": [
+      "tech_news"
+    ],
+    "sentiment_score": 0.57,
+    "engagement": {
+      "likes": 1685,
+      "shares": 555,
+      "comments": 780
+    }
+  },
+  {
+    "id": "SENT-00019",
+    "user": "@la_dolce_vita",
+    "source": "forum",
+    "text": "Champions League nights at the Meazza hit different \ud83c\udf19",
+    "published_at": "2025-10-18T13:19:36Z",
+    "topic": "AC Milan",
+    "tags": [
+      "football",
+      "ac_milan"
+    ],
+    "sentiment_score": 0.529,
+    "engagement": {
+      "likes": 554,
+      "shares": 1193,
+      "comments": 228
+    }
+  },
+  {
+    "id": "SENT-00054",
+    "user": "@torino_girlmilano",
+    "source": "twitter",
+    "text": "Italian cinema is having a moment and nobody is talking about it",
+    "published_at": "08/20/2025",
+    "topic": "Random",
+    "tags": [
+      "random"
+    ],
+    "sentiment_score": 0.565,
+    "engagement": {
+      "likes": 165,
+      "shares": 600,
+      "comments": 112
+    }
+  },
+  {
+    "id": "SENT-00116",
+    "user": "@milanista2k",
+    "source": "forum",
+    "text": "Scooter almost took me out on Via Torino. Classic Milano.",
+    "published_at": "12/02/2025",
+    "topic": "Fashion Week",
+    "tags": [
+      "fashion_week"
+    ],
+    "sentiment_score": 0.449,
+    "engagement": null
+  },
+  {
+    "id": "SENT-00158",
+    "user": "@napoli_ultra_",
+    "source": "reddit",
+    "text": "Beautiful sunny day in Milan, perfect for football \u2600\ufe0f",
+    "published_at": "25-Oct-2025",
+    "topic": "Weather",
+    "tags": [
+      "weather"
+    ],
+    "sentiment_score": null,
+    "engagement": {
+      "likes": 4063,
+      "shares": 192,
+      "comments": 434
+    }
+  },
+  {
+    "id": "SENT-00061",
+    "user": "@roma_boy_",
+    "source": "forum",
+    "text": "Freezing cold at San Siro tonight, bring layers \ud83e\udd76",
+    "published_at": "02/05/2026",
+    "topic": "Weather",
+    "tags": [
+      "weather"
+    ],
+    "sentiment_score": 0.26,
+    "engagement": {
+      "likes": 4293,
+      "shares": 330,
+      "comments": 180
+    }
+  },
+  {
+    "id": "SENT-00018",
+    "user": "@la_dolce_vita",
+    "source": "reddit",
+    "text": "Milan Fashion Week never disappoints. The Prada show was stunning.",
+    "published_at": "12/12/2025",
+    "topic": "fashion week",
+    "tags": [
+      "fashion_week"
+    ],
+    "sentiment_score": 0.02,
+    "engagement": {
+      "likes": 3504,
+      "shares": 587,
+      "comments": 753
+    }
+  },
+  {
+    "id": "SENT-00228",
+    "user": "@seriea",
+    "source": "news",
+    "text": "Anyone else think the ref was shocking tonight or just me?",
+    "published_at": "2025-08-22T13:35:39Z",
+    "topic": "Transfer Rumors",
+    "tags": [
+      "football",
+      "transfers"
+    ],
+    "sentiment_score": 0.766,
+    "engagement": {
+      "likes": 3030,
+      "shares": 667,
+      "comments": 429
+    }
+  },
+  {
+    "id": "SENT-00124",
+    "user": "@serieamilano",
+    "source": "forum",
+    "text": "Remote work is great until your wifi dies during the all-hands \ud83d\udc80",
+    "published_at": "11-Jan-2026",
+    "topic": "F1 Racing",
+    "tags": [
+      "f1_racing"
+    ],
+    "sentiment_score": 0.295,
+    "engagement": {
+      "likes": 2129,
+      "shares": 519,
+      "comments": 511
+    }
+  },
+  {
+    "id": "SENT-00153",
+    "user": "@baresifan",
+    "source": "blog",
+    "text": "Venice Film Festival lineup looks incredible this year",
+    "published_at": "2025-11-05T05:31:15Z",
+    "topic": "Random",
+    "tags": [
+      "random"
+    ],
+    "sentiment_score": 0.307,
+    "engagement": {
+      "likes": 332,
+      "shares": 71,
+      "comments": 266
+    }
+  },
+  {
+    "id": "SENT-00086",
+    "user": "@forza99",
+    "source": "news",
+    "text": "Italian cinema is having a moment and nobody is talking about it",
+    "published_at": "2025-10-31T07:29:07Z",
+    "topic": "F1 Racing",
+    "tags": [
+      "f1_racing"
+    ],
+    "sentiment_score": 0.27,
+    "engagement": {
+      "likes": 3244,
+      "shares": 595,
+      "comments": 664
+    }
+  },
+  {
+    "id": "SENT-00088",
+    "user": "@tech_brovibes",
+    "source": "blog",
+    "text": "Just tried that new restaurant in Navigli. Overpriced but decent pasta.",
+    "published_at": "2025-11-06 14:14",
+    "topic": "Tech News",
+    "tags": [
+      "tech_news"
+    ],
+    "sentiment_score": null,
+    "engagement": {
+      "likes": 971,
+      "shares": 1032,
+      "comments": 763
+    }
+  },
+  {
+    "id": "SENT-00147",
+    "user": "@curva",
+    "source": "forum",
+    "text": "Ferrari's new car looks absolutely mental. Can't wait for the season \ud83c\udfce\ufe0f",
+    "published_at": "26-Aug-2025",
+    "topic": "Fashion Week",
+    "tags": [
+      "fashion_week"
+    ],
+    "sentiment_score": 0.328,
+    "engagement": {
+      "likes": 2622,
+      "shares": 666,
+      "comments": 541
+    }
+  },
+  {
+    "id": "SENT-00225",
+    "user": "@curvamilano",
+    "source": "news",
+    "text": "Lautaro Martinez is the best striker in Serie A, no question \ud83d\udc02",
+    "published_at": "2025-12-03 18:26",
+    "topic": "Inter Milan",
+    "tags": [
+      "football",
+      "inter"
+    ],
+    "sentiment_score": 0.575,
+    "engagement": null
+  },
+  {
+    "id": "SENT-00028",
+    "user": "@ultras1908",
+    "source": "reddit",
+    "text": "Clear skies for the derby, couldn't ask for better conditions",
+    "published_at": "2026-01-06 08:48",
+    "topic": "Weather",
+    "tags": [
+      "weather"
+    ],
+    "sentiment_score": 0.002,
+    "engagement": {
+      "likes": 1722,
+      "shares": 610,
+      "comments": 448
+    }
+  },
+  {
+    "id": "SENT-00041",
+    "user": "@futboltakes",
+    "source": "reddit",
+    "text": "This espresso from the bar downstairs might be the best I've ever had \u2615",
+    "published_at": "08/22/2025",
+    "topic": "Tech News",
+    "tags": [
+      "tech_news"
+    ],
+    "sentiment_score": 0.518,
+    "engagement": {
+      "likes": 1382,
+      "shares": 748,
+      "comments": 46
+    }
+  },
+  {
+    "id": "SENT-00179",
+    "user": "@forza_",
+    "source": "reddit",
+    "text": "Hailstorm delay at the stadium, fans soaked but still singing",
+    "published_at": "12/06/2025",
+    "topic": "Weather",
+    "tags": [
+      "weather"
+    ],
+    "sentiment_score": -0.452,
+    "engagement": {
+      "likes": 2430,
+      "shares": 509,
+      "comments": 563
+    }
+  },
+  {
+    "id": "SENT-00229",
+    "user": "@acmx",
+    "source": "twitter",
+    "text": "Primavera kids looking incredible. Future is bright \ud83c\udf1f",
+    "published_at": "2025-08-10T08:02:17Z",
+    "topic": "Serie A",
+    "tags": [
+      "football",
+      "serie_a"
+    ],
+    "sentiment_score": -0.186,
+    "engagement": {
+      "likes": 2109,
+      "shares": 160,
+      "comments": 310
+    }
+  },
+  {
+    "id": "SENT-00149",
+    "user": "@ultras1899",
+    "source": "twitter",
+    "text": "Milan DNA is real. Even the youth team plays beautiful football.",
+    "published_at": "12/12/2025",
+    "topic": "AC Milan",
+    "tags": [
+      "football",
+      "ac_milan"
+    ],
+    "sentiment_score": 0.013,
+    "engagement": {
+      "likes": 3132,
+      "shares": 894,
+      "comments": 91
+    }
+  },
+  {
+    "id": "SENT-00253",
+    "user": "@tomoridaily",
+    "source": "twitter",
+    "text": "Milan Fashion Week never disappoints. The Prada show was stunning.",
+    "published_at": "2025-08-02 11:14",
+    "topic": "Tech News",
+    "tags": [
+      "tech_news"
+    ],
+    "sentiment_score": 0.397,
+    "engagement": {
+      "likes": 4728,
+      "shares": 721,
+      "comments": 625
+    }
+  },
+  {
+    "id": "SENT-00165",
+    "user": "@interista_",
+    "source": "blog",
+    "text": "Nerazzurri on fire tonight! Forza Inter! \ud83d\udda4\ud83d\udc99",
+    "published_at": "2025-08-28 21:25",
+    "topic": "Inter Milan",
+    "tags": [
+      "football",
+      "inter"
+    ],
+    "sentiment_score": 0.048,
+    "engagement": {
+      "likes": 1683,
+      "shares": 628,
+      "comments": 33
+    }
+  },
+  {
+    "id": "SENT-00079",
+    "user": "@tifosovibes",
+    "source": "twitter",
+    "text": "Rain forecast for match day, typical Milano weather \u2614",
+    "published_at": "11/14/2025",
+    "topic": "Weather",
+    "tags": [
+      "weather"
+    ],
+    "sentiment_score": 0.507,
+    "engagement": {
+      "likes": 4551,
+      "shares": 514,
+      "comments": 252
+    }
+  },
+  {
+    "id": "SENT-00139",
+    "user": "@curva1899",
+    "source": "news",
+    "text": "Stadio Diego Armando Maradona erupting tonight. Incredible atmosphere.",
+    "published_at": "2025-12-28T20:01:11Z",
+    "topic": "Napoli",
+    "tags": [
+      "football",
+      "napoli"
+    ],
+    "sentiment_score": -0.478,
+    "engagement": {
+      "likes": 2492,
+      "shares": 160,
+      "comments": 755
+    }
+  },
+  {
+    "id": "SENT-00220",
+    "user": "@tech_bro1899",
+    "source": "news",
+    "text": "Remote work is great until your wifi dies during the all-hands \ud83d\udc80",
+    "published_at": "2026-02-08 03:12",
+    "topic": "Tech News",
+    "tags": [
+      "tech_news"
+    ],
+    "sentiment_score": 0.292,
+    "engagement": {
+      "likes": 4532,
+      "shares": 339,
+      "comments": 348
+    }
+  },
+  {
+    "id": "SENT-00099",
+    "user": "@baresiita",
+    "source": "news",
+    "text": "Clear skies for the derby, couldn't ask for better conditions",
+    "published_at": "04-Nov-2025",
+    "topic": "Weather",
+    "tags": [
+      "weather"
+    ],
+    "sentiment_score": 0.362,
+    "engagement": null
+  },
+  {
+    "id": "SENT-00248",
+    "user": "@seedorf07",
+    "source": "blog",
+    "text": "Fog rolling in across the pitch, classic Lombardy winter",
+    "published_at": "09-Aug-2025",
+    "topic": "Weather",
+    "tags": [
+      "weather"
+    ],
+    "sentiment_score": 0.033,
+    "engagement": {
+      "likes": 3470,
+      "shares": 1106,
+      "comments": 31
+    }
+  },
+  {
+    "id": "SENT-00210",
+    "user": "@acmszn",
+    "source": "twitter",
+    "text": "Inzaghi masterclass tonight, tactical perfection",
+    "published_at": "2026-01-18T14:27:07Z",
+    "topic": "Inter Milan",
+    "tags": [
+      "football",
+      "inter"
+    ],
+    "sentiment_score": -0.166,
+    "engagement": {
+      "likes": 3941,
+      "shares": 534,
+      "comments": 114
+    }
+  },
+  {
+    "id": "SENT-00053",
+    "user": "@torino_girlmilano",
+    "source": "news",
+    "text": "AS Roma till I die. Through thick and thin. Forza Roma!",
+    "published_at": "02/03/2026",
+    "topic": "roma",
+    "tags": [
+      "football",
+      "roma"
+    ],
+    "sentiment_score": -0.174,
+    "engagement": {
+      "likes": 3153,
+      "shares": 192,
+      "comments": 798
+    }
+  },
+  {
+    "id": "SENT-00151",
+    "user": "@baresifan",
+    "source": "forum",
+    "text": "Venice Film Festival lineup looks incredible this year",
+    "published_at": "2025-08-16 19:32",
+    "topic": "Tech News",
+    "tags": [
+      "tech_news"
+    ],
+    "sentiment_score": -0.075,
+    "engagement": {
+      "likes": 3225,
+      "shares": 432,
+      "comments": 575
+    }
+  },
+  {
+    "id": "SENT-00157",
+    "user": "@napoli_ultra_",
+    "source": "reddit",
+    "text": "The Eternal City deserves a trophy. This could be our year.",
+    "published_at": "2025-10-02T20:05:18Z",
+    "topic": "Roma",
+    "tags": [
+      "football",
+      "roma"
+    ],
+    "sentiment_score": -0.003,
+    "engagement": {
+      "likes": 4081,
+      "shares": 1196,
+      "comments": 316
+    }
+  },
+  {
+    "id": "SENT-00204",
+    "user": "@curva1908",
+    "source": "reddit",
+    "text": "Napoli playing the best football in Italy right now, no debate.",
+    "published_at": "2025-08-09 06:01",
+    "topic": "Napoli",
+    "tags": [
+      "football",
+      "napoli"
+    ],
+    "sentiment_score": 0.514,
+    "engagement": {
+      "likes": 2902,
+      "shares": 66,
+      "comments": 613
+    }
+  },
+  {
+    "id": "SENT-00231",
+    "user": "@forzadaily",
+    "source": "news",
+    "text": "Allianz Stadium rocking tonight, Juve faithful always show up",
+    "published_at": "2026-01-19 03:48",
+    "topic": "Juventus",
+    "tags": [
+      "football",
+      "juventus"
+    ],
+    "sentiment_score": -0.261,
+    "engagement": {
+      "likes": 3328,
+      "shares": 38,
+      "comments": 288
+    }
+  },
+  {
+    "id": "SENT-00255",
+    "user": "@ferrari_fan",
+    "source": "news",
+    "text": "Watching Milan play like this makes all those dark years worth it",
+    "published_at": "12/28/2025",
+    "topic": "AC Milan",
+    "tags": [
+      "football",
+      "ac_milan"
+    ],
+    "sentiment_score": 0.452,
+    "engagement": {
+      "likes": 4748,
+      "shares": 519,
+      "comments": 157
+    }
+  },
+  {
+    "id": "SENT-00224",
+    "user": "@maldiniszn",
+    "source": "news",
+    "text": "Italian cinema is having a moment and nobody is talking about it",
+    "published_at": "23-Dec-2025",
+    "topic": "F1 Racing",
+    "tags": [
+      "f1_racing"
+    ],
+    "sentiment_score": -0.17,
+    "engagement": {
+      "likes": 3906,
+      "shares": 294,
+      "comments": 98
+    }
+  },
+  {
+    "id": "SENT-00140",
+    "user": "@curva1899",
+    "source": "reddit",
+    "text": "Clear skies for the derby, couldn't ask for better conditions",
+    "published_at": "11/16/2025",
+    "topic": "weather",
+    "tags": [
+      "weather"
+    ],
+    "sentiment_score": 0.22,
+    "engagement": {
+      "likes": 4835,
+      "shares": 1132,
+      "comments": 471
+    }
+  },
+  {
+    "id": "SENT-00164",
+    "user": "@interista_",
+    "source": "reddit",
+    "text": "Napoli playing the best football in Italy right now, no debate.",
+    "published_at": "02/03/2026",
+    "topic": "Napoli",
+    "tags": [
+      "football",
+      "napoli"
+    ],
+    "sentiment_score": -0.491,
+    "engagement": {
+      "likes": 3292,
+      "shares": 1108,
+      "comments": 515
+    }
+  },
+  {
+    "id": "SENT-00217",
+    "user": "@theo_stanfan",
+    "source": "news",
+    "text": "3 points! We keep climbing. Scudetto is not a dream anymore \ud83c\udfc6",
+    "published_at": "2025-11-04T16:10:14Z",
+    "topic": "Champions League",
+    "tags": [
+      "football",
+      "ucl"
+    ],
+    "sentiment_score": -0.224,
+    "engagement": {
+      "likes": 2279,
+      "shares": 896,
+      "comments": 758
+    }
+  },
+  {
+    "id": "SENT-00219",
+    "user": "@theo_stanfan",
+    "source": "forum",
+    "text": "This espresso from the bar downstairs might be the best I've ever had \u2615",
+    "published_at": "2025-09-20 13:15",
+    "topic": "Fashion Week",
+    "tags": [
+      "fashion_week"
+    ],
+    "sentiment_score": 0.617,
+    "engagement": {
+      "likes": 4520,
+      "shares": 207,
+      "comments": 683
+    }
+  },
+  {
+    "id": "SENT-00001",
+    "user": "@torino_girl",
+    "source": "forum",
+    "text": "The commute on ATM today was absolutely brutal. 40 mins for 3 stops.",
+    "published_at": "13-Jan-2026",
+    "topic": "Random",
+    "tags": [
+      "random"
+    ],
+    "sentiment_score": 0.552,
+    "engagement": null
+  },
+  {
+    "id": "SENT-00241",
+    "user": "@ultrasfan",
+    "source": "twitter",
+    "text": "The Eternal City deserves a trophy. This could be our year.",
+    "published_at": "09/01/2025",
+    "topic": "Roma",
+    "tags": [
+      "football",
+      "roma"
+    ],
+    "sentiment_score": -0.331,
+    "engagement": {
+      "likes": 1554,
+      "shares": 747,
+      "comments": 167
+    }
+  },
+  {
+    "id": "SENT-00074",
+    "user": "@tomorifan",
+    "source": "twitter",
+    "text": "Match thread: who's watching? Drop your predictions below \u2b07\ufe0f",
+    "published_at": "2025-09-19 04:59",
+    "topic": "Champions League",
+    "tags": [
+      "football",
+      "ucl"
+    ],
+    "sentiment_score": -0.019,
+    "engagement": {
+      "likes": 4806,
+      "shares": 1193,
+      "comments": 715
+    }
+  },
+  {
+    "id": "SENT-00112",
+    "user": "@milanista",
+    "source": "forum",
+    "text": "Second star on the chest and we're not stopping here \u2b50\u2b50",
+    "published_at": "2025-10-26T23:48:24Z",
+    "topic": "Inter Milan",
+    "tags": [
+      "football",
+      "inter"
+    ],
+    "sentiment_score": 0.334,
+    "engagement": {
+      "likes": 3778,
+      "shares": 790,
+      "comments": 274
+    }
+  },
+  {
+    "id": "SENT-00216",
+    "user": "@espresso_lover",
+    "source": "forum",
+    "text": "Freezing cold at San Siro tonight, bring layers \ud83e\udd76",
+    "published_at": "2025-10-12 03:48",
+    "topic": "Weather",
+    "tags": [
+      "weather"
+    ],
+    "sentiment_score": -0.011,
+    "engagement": {
+      "likes": 443,
+      "shares": 1056,
+      "comments": 6
+    }
+  },
+  {
+    "id": "SENT-00073",
+    "user": "@tifoso",
+    "source": "twitter",
+    "text": "Watching highlights for the 5th time and still getting chills",
+    "published_at": "2025-08-12 17:13",
+    "topic": "Transfer Rumors",
+    "tags": [
+      "football",
+      "transfers"
+    ],
+    "sentiment_score": null,
+    "engagement": {
+      "likes": 2849,
+      "shares": 748,
+      "comments": 509
+    }
+  },
+  {
+    "id": "SENT-00064",
+    "user": "@baresidaily",
+    "source": "blog",
+    "text": "Italian cinema is having a moment and nobody is talking about it",
+    "published_at": "2025-09-16 17:57",
+    "topic": "Random",
+    "tags": [
+      "random"
+    ],
+    "sentiment_score": 0.024,
+    "engagement": {
+      "likes": 3287,
+      "shares": 4,
+      "comments": 786
+    }
+  },
+  {
+    "id": "SENT-00009",
+    "user": "@pirlo",
+    "source": "twitter",
+    "text": "Just tried that new restaurant in Navigli. Overpriced but decent pasta.",
+    "published_at": "2025-10-10 11:09",
+    "topic": "Tech News",
+    "tags": [
+      "tech_news"
+    ],
+    "sentiment_score": 0.265,
+    "engagement": {
+      "likes": 4830,
+      "shares": 74,
+      "comments": 746
+    }
+  },
+  {
+    "id": "SENT-00052",
+    "user": "@milanistamilano",
+    "source": "blog",
+    "text": "The away section was bouncing today. Best fans in Italy and it's not close.",
+    "published_at": "2025-12-06T18:54:15Z",
+    "topic": "Champions League",
+    "tags": [
+      "football",
+      "ucl"
+    ],
+    "sentiment_score": null,
+    "engagement": {
+      "likes": 1652,
+      "shares": 920,
+      "comments": 474
+    }
+  },
+  {
+    "id": "SENT-00208",
+    "user": "@tomorix",
+    "source": "twitter",
+    "text": "Italian cinema is having a moment and nobody is talking about it",
+    "published_at": "2025-10-23T04:23:29Z",
+    "topic": "Tech News",
+    "tags": [
+      "tech_news"
+    ],
+    "sentiment_score": 0.551,
+    "engagement": {
+      "likes": 3513,
+      "shares": 252,
+      "comments": 434
+    }
+  },
+  {
+    "id": "SENT-00049",
+    "user": "@pirlo1899",
+    "source": "blog",
+    "text": "Rain forecast for match day, typical Milano weather \u2614",
+    "published_at": "21-Nov-2025",
+    "topic": "Weather",
+    "tags": [
+      "weather"
+    ],
+    "sentiment_score": -0.218,
+    "engagement": {
+      "likes": 808,
+      "shares": 875,
+      "comments": 201
+    }
+  },
+  {
+    "id": "SENT-00100",
+    "user": "@rossoneromilano",
+    "source": "twitter",
+    "text": "Inter dominating the midfield, Barella is a machine",
+    "published_at": "09/28/2025",
+    "topic": "Inter Milan",
+    "tags": [
+      "football",
+      "inter"
+    ],
+    "sentiment_score": -0.065,
+    "engagement": {
+      "likes": 665,
+      "shares": 859,
+      "comments": 729
+    }
+  },
+  {
+    "id": "SENT-00233",
+    "user": "@rino2k",
+    "source": "twitter",
+    "text": "Scooter almost took me out on Via Torino. Classic Milano.",
+    "published_at": "21-Dec-2025",
+    "topic": "Tech News",
+    "tags": [
+      "tech_news"
+    ],
+    "sentiment_score": 0.03,
+    "engagement": {
+      "likes": 184,
+      "shares": 631,
+      "comments": 246
+    }
+  },
+  {
+    "id": "SENT-00050",
+    "user": "@pirlo1899",
+    "source": "reddit",
+    "text": "Just watched the tactical breakdown of our 4-2-3-1. Chef's kiss.",
+    "published_at": "2026-02-06 07:41",
+    "topic": "Transfer Rumors",
+    "tags": [
+      "football",
+      "transfers"
+    ],
+    "sentiment_score": 0.741,
+    "engagement": {
+      "likes": 1283,
+      "shares": 1055,
+      "comments": 235
+    }
+  },
+  {
+    "id": "SENT-00036",
+    "user": "@napoli_ultra_official",
+    "source": "news",
+    "text": "Snow in Milan tomorrow apparently. Time to break out the big coat \ud83e\udd76",
+    "published_at": "2025-09-07T07:03:12Z",
+    "topic": "Random",
+    "tags": [
+      "random"
+    ],
+    "sentiment_score": 0.257,
+    "engagement": {
+      "likes": 2013,
+      "shares": 262,
+      "comments": 604
+    }
+  },
+  {
+    "id": "SENT-00105",
+    "user": "@modaMilanoszn",
+    "source": "forum",
+    "text": "That Pulisic goal was absolutely filthy. On repeat all night.",
+    "published_at": "01/02/2026",
+    "topic": "AC Milan",
+    "tags": [
+      "football",
+      "ac_milan"
+    ],
+    "sentiment_score": null,
+    "engagement": {
+      "likes": 114,
+      "shares": 1047,
+      "comments": 8
+    }
+  },
+  {
+    "id": "SENT-00238",
+    "user": "@seriea2024",
+    "source": "twitter",
+    "text": "Scooter almost took me out on Via Torino. Classic Milano.",
+    "published_at": "02-Aug-2025",
+    "topic": "Tech News",
+    "tags": [
+      "tech_news"
+    ],
+    "sentiment_score": 0.361,
+    "engagement": {
+      "likes": 3149,
+      "shares": 695,
+      "comments": 778
+    }
+  },
+  {
+    "id": "SENT-00206",
+    "user": "@curva1908",
+    "source": "reddit",
+    "text": "The Eternal City deserves a trophy. This could be our year.",
+    "published_at": "2026-02-06T12:11:20Z",
+    "topic": "Roma",
+    "tags": [
+      "football",
+      "roma"
+    ],
+    "sentiment_score": 0.405,
+    "engagement": {
+      "likes": 212,
+      "shares": 1045,
+      "comments": 545
+    }
+  },
+  {
+    "id": "SENT-00051",
+    "user": "@milanistamilano",
+    "source": "twitter",
+    "text": "Roma fighting for every ball, this is what Romanisti want to see.",
+    "published_at": "2025-12-13T06:23:56Z",
+    "topic": "Roma",
+    "tags": [
+      "football",
+      "roma"
+    ],
+    "sentiment_score": -0.247,
+    "engagement": {
+      "likes": 4578,
+      "shares": 958,
+      "comments": 242
+    }
+  },
+  {
+    "id": "SENT-00263",
+    "user": "@gattusofan",
+    "source": "news",
+    "text": "Watching highlights for the 5th time and still getting chills",
+    "published_at": "2026-01-01T15:53:03Z",
+    "topic": "Champions League",
+    "tags": [
+      "football",
+      "ucl"
+    ],
+    "sentiment_score": null,
+    "engagement": null
+  },
+  {
+    "id": "SENT-00123",
+    "user": "@serieamilano",
+    "source": "forum",
+    "text": "Champions League nights at the Meazza hit different \ud83c\udf19",
+    "published_at": "08/20/2025",
+    "topic": "AC Milan",
+    "tags": [
+      "football",
+      "ac_milan"
+    ],
+    "sentiment_score": 0.172,
+    "engagement": {
+      "likes": 3302,
+      "shares": 635,
+      "comments": 359
+    }
+  },
+  {
+    "id": "SENT-00035",
+    "user": "@ilDiavolo1908",
+    "source": "news",
+    "text": "3 points! We keep climbing. Scudetto is not a dream anymore \ud83c\udfc6",
+    "published_at": "2025-08-29 04:36",
+    "topic": "Champions League",
+    "tags": [
+      "football",
+      "ucl"
+    ],
+    "sentiment_score": 0.083,
+    "engagement": {
+      "likes": 4027,
+      "shares": 1117,
+      "comments": 557
+    }
+  },
+  {
+    "id": "SENT-00045",
+    "user": "@leao_fan_",
+    "source": "forum",
+    "text": "Primavera kids looking incredible. Future is bright \ud83c\udf1f",
+    "published_at": "09/11/2025",
+    "topic": "Serie A",
+    "tags": [
+      "football",
+      "serie_a"
+    ],
+    "sentiment_score": null,
+    "engagement": {
+      "likes": 3968,
+      "shares": 514,
+      "comments": 731
+    }
+  },
+  {
+    "id": "SENT-00161",
+    "user": "@curvax",
+    "source": "reddit",
+    "text": "Fog rolling in across the pitch, classic Lombardy winter",
+    "published_at": "2025-08-09 02:58",
+    "topic": "Weather",
+    "tags": [
+      "weather"
+    ],
+    "sentiment_score": 0.554,
+    "engagement": {
+      "likes": 1575,
+      "shares": 909,
+      "comments": 252
+    }
+  },
+  {
+    "id": "SENT-00142",
+    "user": "@seedorf_",
+    "source": "reddit",
+    "text": "The commute on ATM today was absolutely brutal. 40 mins for 3 stops.",
+    "published_at": "08/18/2025",
+    "topic": "F1 Racing",
+    "tags": [
+      "f1_racing"
+    ],
+    "sentiment_score": 0.306,
+    "engagement": {
+      "likes": 3673,
+      "shares": 372,
+      "comments": 66
+    }
+  },
+  {
+    "id": "SENT-00134",
+    "user": "@tech_bro",
+    "source": "twitter",
+    "text": "This espresso from the bar downstairs might be the best I've ever had \u2615",
+    "published_at": "2025-09-22 07:47",
+    "topic": "F1 Racing",
+    "tags": [
+      "f1_racing"
+    ],
+    "sentiment_score": 0.31,
+    "engagement": {
+      "likes": 2023,
+      "shares": 113,
+      "comments": 793
+    }
+  },
+  {
+    "id": "SENT-00117",
+    "user": "@seedorfmilano",
+    "source": "forum",
+    "text": "Curva Sud in full voice, nobody matches our passion.",
+    "published_at": "2025-09-07 07:42",
+    "topic": "Roma",
+    "tags": [
+      "football",
+      "roma"
+    ],
+    "sentiment_score": null,
+    "engagement": {
+      "likes": 4498,
+      "shares": 374,
+      "comments": 489
+    }
+  },
+  {
+    "id": "SENT-00007",
+    "user": "@ferrari_fanita",
+    "source": "twitter",
+    "text": "Milan Fashion Week never disappoints. The Prada show was stunning.",
+    "published_at": "2025-11-16T07:15:01Z",
+    "topic": "Random",
+    "tags": [
+      "random"
+    ],
+    "sentiment_score": -0.089,
+    "engagement": {
+      "likes": 4705,
+      "shares": 1087,
+      "comments": 325
+    }
+  },
+  {
+    "id": "SENT-00214",
+    "user": "@leao_fan",
+    "source": "news",
+    "text": "Another day, another AI startup raising millions. When does the bubble pop?",
+    "published_at": "10-Sep-2025",
+    "topic": "Fashion Week",
+    "tags": [
+      "fashion_week"
+    ],
+    "sentiment_score": -0.089,
+    "engagement": {
+      "likes": 1033,
+      "shares": 371,
+      "comments": 233
+    }
+  },
+  {
+    "id": "SENT-00268",
+    "user": "@kaka_",
+    "source": "twitter",
+    "text": "Remote work is great until your wifi dies during the all-hands \ud83d\udc80",
+    "published_at": "28-Sep-2025",
+    "topic": "Random",
+    "tags": [
+      "random"
+    ],
+    "sentiment_score": 0.106,
+    "engagement": {
+      "likes": 1560,
+      "shares": 561,
+      "comments": 774
+    }
+  },
+  {
+    "id": "SENT-00109",
+    "user": "@rinox",
+    "source": "forum",
+    "text": "San Siro is OUR home. Derby della Madonnina belongs to us.",
+    "published_at": "12-Aug-2025",
+    "topic": "Inter Milan",
+    "tags": [
+      "football",
+      "inter"
+    ],
+    "sentiment_score": -0.381,
+    "engagement": {
+      "likes": 4722,
+      "shares": 72,
+      "comments": 492
+    }
+  },
+  {
+    "id": "SENT-00026",
+    "user": "@gattuso",
+    "source": "twitter",
+    "text": "3 points! We keep climbing. Scudetto is not a dream anymore \ud83c\udfc6",
+    "published_at": "2025-11-10 11:17",
+    "topic": "Serie A",
+    "tags": [
+      "football",
+      "serie_a"
+    ],
+    "sentiment_score": -0.428,
+    "engagement": {
+      "likes": 1902,
+      "shares": 710,
+      "comments": 411
+    }
+  },
+  {
+    "id": "SENT-00191",
+    "user": "@kakaita",
+    "source": "twitter",
+    "text": "The rebuild under RedBird is actually working? Color me surprised.",
+    "published_at": "08/26/2025",
+    "topic": "AC Milan",
+    "tags": [
+      "football",
+      "ac_milan"
+    ],
+    "sentiment_score": -0.273,
+    "engagement": {
+      "likes": 2155,
+      "shares": 237,
+      "comments": 160
+    }
+  },
+  {
+    "id": "SENT-00069",
+    "user": "@maignanmilano",
+    "source": "reddit",
+    "text": "Derby della Madonnina tickets are highway robbery at these prices \ud83d\udcb8",
+    "published_at": "2026-01-17 06:17",
+    "topic": "AC Milan",
+    "tags": [
+      "football",
+      "ac_milan"
+    ],
+    "sentiment_score": -0.47,
+    "engagement": {
+      "likes": 880,
+      "shares": 655,
+      "comments": 727
+    }
+  },
+  {
+    "id": "SENT-00108",
+    "user": "@rinox",
+    "source": "blog",
+    "text": "Inzaghi masterclass tonight, tactical perfection",
+    "published_at": "09-Dec-2025",
+    "topic": "Inter Milan",
+    "tags": [
+      "football",
+      "inter"
+    ],
+    "sentiment_score": 0.696,
+    "engagement": null
+  },
+  {
+    "id": "SENT-00080",
+    "user": "@tifosovibes",
+    "source": "reddit",
+    "text": "Champions League nights at the Meazza hit different \ud83c\udf19",
+    "published_at": "2026-01-04T01:30:47Z",
+    "topic": "AC Milan",
+    "tags": [
+      "football",
+      "ac_milan"
+    ],
+    "sentiment_score": -0.346,
+    "engagement": {
+      "likes": 4927,
+      "shares": 511,
+      "comments": 8
+    }
+  },
+  {
+    "id": "SENT-00087",
+    "user": "@tech_brovibes",
+    "source": "reddit",
+    "text": "San Siro is OUR home. Derby della Madonnina belongs to us.",
+    "published_at": "2025-08-09 22:04",
+    "topic": "Inter Milan",
+    "tags": [
+      "football",
+      "inter"
+    ],
+    "sentiment_score": 0.895,
+    "engagement": {
+      "likes": 2221,
+      "shares": 1131,
+      "comments": 500
+    }
+  },
+  {
+    "id": "SENT-00150",
+    "user": "@ultras1899",
+    "source": "news",
+    "text": "VAR ruining football yet again. That was a clear penalty, embarrassing.",
+    "published_at": "2025-11-25T20:18:10Z",
+    "topic": "Champions League",
+    "tags": [
+      "football",
+      "ucl"
+    ],
+    "sentiment_score": 0.829,
+    "engagement": null
+  },
+  {
+    "id": "SENT-00152",
+    "user": "@baresifan",
+    "source": "blog",
+    "text": "Italian cinema is having a moment and nobody is talking about it",
+    "published_at": "2025-08-15 21:44",
+    "topic": "F1 Racing",
+    "tags": [
+      "f1_racing"
+    ],
+    "sentiment_score": 0.43,
+    "engagement": {
+      "likes": 1930,
+      "shares": 715,
+      "comments": 66
+    }
+  },
+  {
+    "id": "SENT-00102",
+    "user": "@ilDiavolovibes",
+    "source": "reddit",
+    "text": "Second star on the chest and we're not stopping here \u2b50\u2b50",
+    "published_at": "2025-12-08 00:13",
+    "topic": "Inter Milan",
+    "tags": [
+      "football",
+      "inter"
+    ],
+    "sentiment_score": -0.428,
+    "engagement": {
+      "likes": 2300,
+      "shares": 943,
+      "comments": 218
+    }
+  },
+  {
+    "id": "SENT-00259",
+    "user": "@ferrari_fanszn",
+    "source": "reddit",
+    "text": "",
+    "published_at": "2026-01-17T09:40:42Z",
+    "topic": "ac milan",
+    "tags": [
+      "football",
+      "ac_milan"
+    ],
+    "sentiment_score": -0.268,
+    "engagement": {
+      "likes": 3994,
+      "shares": 983,
+      "comments": 263
+    }
+  },
+  {
+    "id": "SENT-00249",
+    "user": "@seedorf07",
+    "source": "reddit",
+    "text": "Ferrari's new car looks absolutely mental. Can't wait for the season \ud83c\udfce\ufe0f",
+    "published_at": "18-Dec-2025",
+    "topic": "Tech News",
+    "tags": [
+      "tech_news"
+    ],
+    "sentiment_score": -0.243,
+    "engagement": {
+      "likes": 3948,
+      "shares": 815,
+      "comments": 105
+    }
+  },
+  {
+    "id": "SENT-00267",
+    "user": "@ultrastakes",
+    "source": "blog",
+    "text": "Primavera kids looking incredible. Future is bright \ud83c\udf1f",
+    "published_at": "09/02/2025",
+    "topic": "Serie A",
+    "tags": [
+      "football",
+      "serie_a"
+    ],
+    "sentiment_score": 0.662,
+    "engagement": {
+      "likes": 253,
+      "shares": 66,
+      "comments": 310
+    }
+  },
+  {
+    "id": "SENT-00096",
+    "user": "@sheva1908",
+    "source": "reddit",
+    "text": "This espresso from the bar downstairs might be the best I've ever had \u2615",
+    "published_at": "05-Dec-2025",
+    "topic": "Fashion Week",
+    "tags": [
+      "fashion_week"
+    ],
+    "sentiment_score": 0.291,
+    "engagement": {
+      "likes": 1062,
+      "shares": 274,
+      "comments": 270
+    }
+  },
+  {
+    "id": "SENT-00251",
+    "user": "@gattusofan",
+    "source": "blog",
+    "text": "Derby della Madonnina tickets are highway robbery at these prices \ud83d\udcb8",
+    "published_at": "2025-09-09T17:21:39Z",
+    "topic": "AC Milan",
+    "tags": [
+      "football",
+      "ac_milan"
+    ],
+    "sentiment_score": -0.403,
+    "engagement": {
+      "likes": 4875,
+      "shares": 573,
+      "comments": 255
+    }
+  },
+  {
+    "id": "SENT-00174",
+    "user": "@tech_bro99",
+    "source": "twitter",
+    "text": "Just tried that new restaurant in Navigli. Overpriced but decent pasta.",
+    "published_at": "2025-11-04T00:54:05Z",
+    "topic": "Random",
+    "tags": [
+      "random"
+    ],
+    "sentiment_score": null,
+    "engagement": {
+      "likes": 3406,
+      "shares": 256,
+      "comments": 66
+    }
+  },
+  {
+    "id": "SENT-00154",
+    "user": "@curvaSud_",
+    "source": "blog",
+    "text": "Italian cinema is having a moment and nobody is talking about it",
+    "published_at": "01/05/2026",
+    "topic": "F1 Racing",
+    "tags": [
+      "f1_racing"
+    ],
+    "sentiment_score": 0.611,
+    "engagement": {
+      "likes": 840,
+      "shares": 456,
+      "comments": 18
+    }
+  },
+  {
+    "id": "SENT-00034",
+    "user": "@ilDiavolo1908",
+    "source": "news",
+    "text": "Derby della Madonnina tickets are highway robbery at these prices \ud83d\udcb8",
+    "published_at": "2026-01-10T15:51:45Z",
+    "topic": "AC Milan",
+    "tags": [
+      "football",
+      "ac_milan"
+    ],
+    "sentiment_score": -0.475,
+    "engagement": {
+      "likes": 851,
+      "shares": 905,
+      "comments": 268
+    }
+  },
+  {
+    "id": "SENT-00201",
+    "user": "@roma_boy",
+    "source": "twitter",
+    "text": "The Eternal City deserves a trophy. This could be our year.",
+    "published_at": "09/13/2025",
+    "topic": "Roma",
+    "tags": [
+      "football",
+      "roma"
+    ],
+    "sentiment_score": 0.621,
+    "engagement": {
+      "likes": 4316,
+      "shares": 465,
+      "comments": 14
+    }
+  },
+  {
+    "id": "SENT-00209",
+    "user": "@acmszn",
+    "source": "reddit",
+    "text": "This espresso from the bar downstairs might be the best I've ever had \u2615",
+    "published_at": "2025-09-25T21:56:05Z",
+    "topic": "F1 Racing",
+    "tags": [
+      "f1_racing"
+    ],
+    "sentiment_score": 0.016,
+    "engagement": {
+      "likes": 4029,
+      "shares": 476,
+      "comments": 716
+    }
+  },
+  {
+    "id": "SENT-00175",
+    "user": "@roma_herex",
+    "source": "reddit",
+    "text": "Ferrari's new car looks absolutely mental. Can't wait for the season \ud83c\udfce\ufe0f",
+    "published_at": "25-Aug-2025",
+    "topic": "Random",
+    "tags": [
+      "random"
+    ],
+    "sentiment_score": 0.264,
+    "engagement": {
+      "likes": 3912,
+      "shares": 724,
+      "comments": 188
+    }
+  },
+  {
+    "id": "SENT-00264",
+    "user": "@pulisic",
+    "source": "blog",
+    "text": "Remote work is great until your wifi dies during the all-hands \ud83d\udc80",
+    "published_at": "11-Aug-2025",
+    "topic": "Tech News",
+    "tags": [
+      "tech_news"
+    ],
+    "sentiment_score": 0.699,
+    "engagement": {
+      "likes": 55,
+      "shares": 378,
+      "comments": 106
+    }
+  },
+  {
+    "id": "SENT-00168",
+    "user": "@ilDiavolo",
+    "source": "news",
+    "text": "Another day, another AI startup raising millions. When does the bubble pop?",
+    "published_at": "2026-02-09T04:50:45Z",
+    "topic": "F1 Racing",
+    "tags": [
+      "f1_racing"
+    ],
+    "sentiment_score": 0.688,
+    "engagement": {
+      "likes": 3303,
+      "shares": 837,
+      "comments": 516
+    }
+  },
+  {
+    "id": "SENT-00167",
+    "user": "@ilDiavolo",
+    "source": "forum",
+    "text": "That pass from Bennacer was pure filth. Midfield maestro.",
+    "published_at": "11/22/2025",
+    "topic": "AC Milan",
+    "tags": [
+      "football",
+      "ac_milan"
+    ],
+    "sentiment_score": 0.039,
+    "engagement": {
+      "likes": 3656,
+      "shares": 937,
+      "comments": 770
+    }
+  },
+  {
+    "id": "SENT-00125",
+    "user": "@tech_bro1908",
+    "source": "blog",
+    "text": "DAZN stream buffering at the worst possible moment. Every. Single. Time.",
+    "published_at": "07-Dec-2025",
+    "topic": "Champions League",
+    "tags": [
+      "football",
+      "ucl"
+    ],
+    "sentiment_score": 0.81,
+    "engagement": {
+      "likes": 1916,
+      "shares": 615,
+      "comments": 454
+    }
+  },
+  {
+    "id": "SENT-00269",
+    "user": "@kaka_",
+    "source": "blog",
+    "text": "Full time whistle. 3 points in the bag. Avanti cos\u00ec! \ud83d\udcaa",
+    "published_at": "09/28/2025",
+    "topic": "Transfer Rumors",
+    "tags": [
+      "football",
+      "transfers"
+    ],
+    "sentiment_score": 0.161,
+    "engagement": {
+      "likes": 67,
+      "shares": 559,
+      "comments": 173
+    }
+  },
+  {
+    "id": "SENT-00156",
+    "user": "@curvaSud_",
+    "source": "twitter",
+    "text": "Snow in Milan tomorrow apparently. Time to break out the big coat \ud83e\udd76",
+    "published_at": "2025-12-26 23:23",
+    "topic": "F1 Racing",
+    "tags": [
+      "f1_racing"
+    ],
+    "sentiment_score": 0.026,
+    "engagement": {
+      "likes": 3349,
+      "shares": 788,
+      "comments": 157
+    }
+  },
+  {
+    "id": "SENT-00078",
+    "user": "@modaMilanovibes",
+    "source": "news",
+    "text": "",
+    "published_at": "2025-11-05T09:57:39Z",
+    "topic": "Random",
+    "tags": [
+      "random"
+    ],
+    "sentiment_score": 0.512,
+    "engagement": {
+      "likes": 1044,
+      "shares": 535,
+      "comments": 792
+    }
+  },
+  {
+    "id": "SENT-00163",
+    "user": "@curvax",
+    "source": "reddit",
+    "text": "The commute on ATM today was absolutely brutal. 40 mins for 3 stops.",
+    "published_at": "09/25/2025",
+    "topic": "Tech News",
+    "tags": [
+      "tech_news"
+    ],
+    "sentiment_score": 0.42,
+    "engagement": {
+      "likes": 723,
+      "shares": 425,
+      "comments": 546
+    }
+  },
+  {
+    "id": "SENT-00199",
+    "user": "@rinoszn",
+    "source": "blog",
+    "text": "Scooter almost took me out on Via Torino. Classic Milano.",
+    "published_at": "11/13/2025",
+    "topic": "F1 Racing",
+    "tags": [
+      "f1_racing"
+    ],
+    "sentiment_score": 0.493,
+    "engagement": {
+      "likes": 78,
+      "shares": 880,
+      "comments": 34
+    }
+  },
+  {
+    "id": "SENT-00178",
+    "user": "@forza_",
+    "source": "forum",
+    "text": "Beautiful sunny day in Milan, perfect for football \u2600\ufe0f",
+    "published_at": "2025-10-06 17:08",
+    "topic": "Weather",
+    "tags": [
+      "weather"
+    ],
+    "sentiment_score": -0.2,
+    "engagement": {
+      "likes": 3783,
+      "shares": 467,
+      "comments": 545
+    }
+  },
+  {
+    "id": "SENT-00063",
+    "user": "@baresidaily",
+    "source": "blog",
+    "text": "Venice Film Festival lineup looks incredible this year",
+    "published_at": "2025-11-03 12:32",
+    "topic": "Fashion Week",
+    "tags": [
+      "fashion_week"
+    ],
+    "sentiment_score": 0.184,
+    "engagement": {
+      "likes": 548,
+      "shares": 122,
+      "comments": 717
+    }
+  },
+  {
+    "id": "SENT-00129",
+    "user": "@milanistaita",
+    "source": "reddit",
+    "text": "The commute on ATM today was absolutely brutal. 40 mins for 3 stops.",
+    "published_at": "12/30/2025",
+    "topic": "F1 Racing",
+    "tags": [
+      "f1_racing"
+    ],
+    "sentiment_score": 0.065,
+    "engagement": {
+      "likes": 3614,
+      "shares": 1082,
+      "comments": 539
+    }
+  },
+  {
+    "id": "SENT-00119",
+    "user": "@interistaszn",
+    "source": "reddit",
+    "text": "Milan Fashion Week never disappoints. The Prada show was stunning.",
+    "published_at": "12/24/2025",
+    "topic": "Tech News",
+    "tags": [
+      "tech_news"
+    ],
+    "sentiment_score": null,
+    "engagement": {
+      "likes": 2893,
+      "shares": 847,
+      "comments": 770
+    }
+  },
+  {
+    "id": "SENT-00245",
+    "user": "@tech_bromilano",
+    "source": "reddit",
+    "text": "Just watched the tactical breakdown of our 4-2-3-1. Chef's kiss.",
+    "published_at": "12/22/2025",
+    "topic": "Transfer Rumors",
+    "tags": [
+      "football",
+      "transfers"
+    ],
+    "sentiment_score": 0.891,
+    "engagement": {
+      "likes": 1773,
+      "shares": 1004,
+      "comments": 264
+    }
+  },
+  {
+    "id": "SENT-00230",
+    "user": "@acmx",
+    "source": "blog",
+    "text": "Half time thoughts: we're dominating possession but need to be clinical",
+    "published_at": "2025-12-18T13:23:23Z",
+    "topic": "Serie A",
+    "tags": [
+      "football",
+      "serie_a"
+    ],
+    "sentiment_score": null,
+    "engagement": {
+      "likes": 45,
+      "shares": 100,
+      "comments": 13
+    }
+  },
+  {
+    "id": "SENT-00190",
+    "user": "@tonalifan",
+    "source": "news",
+    "text": "The commute on ATM today was absolutely brutal. 40 mins for 3 stops.",
+    "published_at": "2025-10-03T09:16:15Z",
+    "topic": "F1 Racing",
+    "tags": [
+      "f1_racing"
+    ],
+    "sentiment_score": 0.685,
+    "engagement": {
+      "likes": 2587,
+      "shares": 1079,
+      "comments": 475
+    }
+  },
+  {
+    "id": "SENT-00062",
+    "user": "@roma_boy_",
+    "source": "news",
+    "text": "Serie A title race is absolutely insane this year. 4 teams in it.",
+    "published_at": "2026-02-05 12:28",
+    "topic": "Serie A",
+    "tags": [
+      "football",
+      "serie_a"
+    ],
+    "sentiment_score": 0.755,
+    "engagement": {
+      "likes": 3070,
+      "shares": 235,
+      "comments": 657
+    }
+  },
+  {
+    "id": "SENT-00262",
+    "user": "@gattusofan",
+    "source": "news",
+    "text": "",
+    "published_at": "2026-01-01T15:47:50Z",
+    "topic": "AC Milan",
+    "tags": [
+      "football",
+      "ac_milan"
+    ],
+    "sentiment_score": 0.621,
+    "engagement": {
+      "likes": 2603,
+      "shares": 61,
+      "comments": 80
+    }
+  },
+  {
+    "id": "SENT-00242",
+    "user": "@ultrasfan",
+    "source": "blog",
+    "text": "Italian cinema is having a moment and nobody is talking about it",
+    "published_at": "08/07/2025",
+    "topic": "Random",
+    "tags": [
+      "random"
+    ],
+    "sentiment_score": 0.494,
+    "engagement": null
+  },
+  {
+    "id": "SENT-00184",
+    "user": "@campionehd",
+    "source": "news",
+    "text": "Fino alla fine! Juve never gives up \ud83e\udd0d\ud83d\udda4",
+    "published_at": "2025-10-12 01:50",
+    "topic": "Juventus",
+    "tags": [
+      "football",
+      "juventus"
+    ],
+    "sentiment_score": 0.689,
+    "engagement": {
+      "likes": 3561,
+      "shares": 340,
+      "comments": 178
+    }
+  },
+  {
+    "id": "SENT-00014",
+    "user": "@la_dolce_vitatakes",
+    "source": "forum",
+    "text": "Ferrari's new car looks absolutely mental. Can't wait for the season \ud83c\udfce\ufe0f",
+    "published_at": "09/22/2025",
+    "topic": "Tech News",
+    "tags": [
+      "tech_news"
+    ],
+    "sentiment_score": 0.575,
+    "engagement": {
+      "likes": 483,
+      "shares": 319,
+      "comments": 543
+    }
+  },
+  {
+    "id": "SENT-00258",
+    "user": "@ferrari_fanszn",
+    "source": "forum",
+    "text": "GDP numbers looking up. Maybe we can afford those match tickets after all \ud83d\ude05",
+    "published_at": "2025-11-04 13:38",
+    "topic": "Tech News",
+    "tags": [
+      "tech_news"
+    ],
+    "sentiment_score": 0.166,
+    "engagement": {
+      "likes": 3232,
+      "shares": 1143,
+      "comments": 735
+    }
+  },
+  {
+    "id": "SENT-00194",
+    "user": "@seedorftakes",
+    "source": "blog",
+    "text": "Inzaghi masterclass tonight, tactical perfection",
+    "published_at": "2025-10-22 19:19",
+    "topic": "inter milan",
+    "tags": [
+      "football",
+      "inter"
+    ],
+    "sentiment_score": -0.19,
+    "engagement": {
+      "likes": 741,
+      "shares": 1069,
+      "comments": 646
+    }
+  },
+  {
+    "id": "SENT-00047",
+    "user": "@roma_boy07",
+    "source": "blog",
+    "text": "Can someone explain that offside call to me? Genuinely confused.",
+    "published_at": "2025-11-11 06:17",
+    "topic": "Champions League",
+    "tags": [
+      "football",
+      "ucl"
+    ],
+    "sentiment_score": null,
+    "engagement": {
+      "likes": 4573,
+      "shares": 216,
+      "comments": 556
+    }
+  },
+  {
+    "id": "SENT-00048",
+    "user": "@roma_boy07",
+    "source": "forum",
+    "text": "Ferrari's new car looks absolutely mental. Can't wait for the season \ud83c\udfce\ufe0f",
+    "published_at": "2025-11-18 12:47",
+    "topic": "Tech News",
+    "tags": [
+      "tech_news"
+    ],
+    "sentiment_score": 0.006,
+    "engagement": {
+      "likes": 4758,
+      "shares": 505,
+      "comments": 792
+    }
+  },
+  {
+    "id": "SENT-00200",
+    "user": "@roma_boy",
+    "source": "news",
+    "text": "DAZN stream buffering at the worst possible moment. Every. Single. Time.",
+    "published_at": "13-Jan-2026",
+    "topic": "Serie A",
+    "tags": [
+      "football",
+      "serie_a"
+    ],
+    "sentiment_score": 0.386,
+    "engagement": {
+      "likes": 97,
+      "shares": 1016,
+      "comments": 556
+    }
+  },
+  {
+    "id": "SENT-00176",
+    "user": "@roma_herex",
+    "source": "blog",
+    "text": "Milan Fashion Week never disappoints. The Prada show was stunning.",
+    "published_at": "03-Oct-2025",
+    "topic": "F1 Racing",
+    "tags": [
+      "f1_racing"
+    ],
+    "sentiment_score": -0.009,
+    "engagement": null
+  },
+  {
+    "id": "SENT-00023",
+    "user": "@boban",
+    "source": "blog",
+    "text": "Vlahovic finally showing his worth. What a striker.",
+    "published_at": "2025-08-10 13:09",
+    "topic": "Juventus",
+    "tags": [
+      "football",
+      "juventus"
+    ],
+    "sentiment_score": 0.458,
+    "engagement": {
+      "likes": 2822,
+      "shares": 571,
+      "comments": 480
+    }
+  },
+  {
+    "id": "SENT-00033",
+    "user": "@ilDiavolo1908",
+    "source": "twitter",
+    "text": "Champions League nights at the Meazza hit different \ud83c\udf19",
+    "published_at": "2025-11-30T05:54:11Z",
+    "topic": "AC Milan",
+    "tags": [
+      "football",
+      "ac_milan"
+    ],
+    "sentiment_score": 0.098,
+    "engagement": {
+      "likes": 298,
+      "shares": 783,
+      "comments": 748
+    }
+  },
+  {
+    "id": "SENT-00071",
+    "user": "@bobanszn",
+    "source": "reddit",
+    "text": "Genuinely can't focus on work after that late winner last night",
+    "published_at": "14-Sep-2025",
+    "topic": "Serie A",
+    "tags": [
+      "football",
+      "serie_a"
+    ],
+    "sentiment_score": 0.869,
+    "engagement": {
+      "likes": 2273,
+      "shares": 453,
+      "comments": 342
+    }
+  },
+  {
+    "id": "SENT-00122",
+    "user": "@maignan2024",
+    "source": "news",
+    "text": "",
+    "published_at": "2026-01-08 03:28",
+    "topic": "F1 Racing",
+    "tags": [
+      "f1_racing"
+    ],
+    "sentiment_score": 0.376,
+    "engagement": {
+      "likes": 2629,
+      "shares": 69,
+      "comments": 465
+    }
+  },
+  {
+    "id": "SENT-00115",
+    "user": "@milanista2k",
+    "source": "news",
+    "text": "Milan Fashion Week never disappoints. The Prada show was stunning.",
+    "published_at": "2026-02-11 17:39",
+    "topic": "F1 Racing",
+    "tags": [
+      "f1_racing"
+    ],
+    "sentiment_score": -0.21,
+    "engagement": {
+      "likes": 2981,
+      "shares": 400,
+      "comments": 704
+    }
+  },
+  {
+    "id": "SENT-00186",
+    "user": "@nesta1899",
+    "source": "news",
+    "text": "Clear skies for the derby, couldn't ask for better conditions",
+    "published_at": "2025-08-18T22:37:34Z",
+    "topic": "weather",
+    "tags": [
+      "weather"
+    ],
+    "sentiment_score": null,
+    "engagement": null
+  },
+  {
+    "id": "SENT-00170",
+    "user": "@la_dolce_vita1908",
+    "source": "forum",
+    "text": "",
+    "published_at": "10/26/2025",
+    "topic": "Juventus",
+    "tags": [
+      "football",
+      "juventus"
+    ],
+    "sentiment_score": null,
+    "engagement": {
+      "likes": 2612,
+      "shares": 196,
+      "comments": 524
+    }
+  },
+  {
+    "id": "SENT-00029",
+    "user": "@kaka1908",
+    "source": "blog",
+    "text": "Match thread: who's watching? Drop your predictions below \u2b07\ufe0f",
+    "published_at": "01/29/2026",
+    "topic": "Champions League",
+    "tags": [
+      "football",
+      "ucl"
+    ],
+    "sentiment_score": 0.05,
+    "engagement": {
+      "likes": 639,
+      "shares": 812,
+      "comments": 207
+    }
+  },
+  {
+    "id": "SENT-00090",
+    "user": "@torino_girldaily",
+    "source": "forum",
+    "text": "Stadio Diego Armando Maradona erupting tonight. Incredible atmosphere.",
+    "published_at": "2026-01-09T02:05:36Z",
+    "topic": "Napoli",
+    "tags": [
+      "football",
+      "napoli"
+    ],
+    "sentiment_score": 0.833,
+    "engagement": {
+      "likes": 3568,
+      "shares": 334,
+      "comments": 142
+    }
+  },
+  {
+    "id": "SENT-00232",
+    "user": "@forzadaily",
+    "source": "twitter",
+    "text": "Champions League nights at the Meazza hit different \ud83c\udf19",
+    "published_at": "2025-10-14T17:26:53Z",
+    "topic": "AC Milan",
+    "tags": [
+      "football",
+      "ac_milan"
+    ],
+    "sentiment_score": null,
+    "engagement": {
+      "likes": 3854,
+      "shares": 678,
+      "comments": 756
+    }
+  },
+  {
+    "id": "SENT-00166",
+    "user": "@interista_",
+    "source": "blog",
+    "text": "Snowing in Milano, San Siro looks magical under the floodlights \u2744\ufe0f",
+    "published_at": "01-Oct-2025",
+    "topic": "Weather",
+    "tags": [
+      "weather"
+    ],
+    "sentiment_score": -0.178,
+    "engagement": {
+      "likes": 1266,
+      "shares": 838,
+      "comments": 128
+    }
+  },
+  {
+    "id": "SENT-00004",
+    "user": "@tonali99",
+    "source": "twitter",
+    "text": "Genuinely can't focus on work after that late winner last night",
+    "published_at": "2025-12-16 09:31",
+    "topic": "Serie A",
+    "tags": [
+      "football",
+      "serie_a"
+    ],
+    "sentiment_score": 0.247,
+    "engagement": {
+      "likes": 476,
+      "shares": 329,
+      "comments": 338
+    }
+  },
+  {
+    "id": "SENT-00111",
+    "user": "@milanista",
+    "source": "news",
+    "text": "Just tried that new restaurant in Navigli. Overpriced but decent pasta.",
+    "published_at": "26-Sep-2025",
+    "topic": "Random",
+    "tags": [
+      "random"
+    ],
+    "sentiment_score": 0.026,
+    "engagement": {
+      "likes": 3649,
+      "shares": 777,
+      "comments": 501
+    }
+  },
+  {
+    "id": "SENT-00207",
+    "user": "@tomorix",
+    "source": "blog",
+    "text": "Scooter almost took me out on Via Torino. Classic Milano.",
+    "published_at": "2025-12-08 00:40",
+    "topic": "F1 Racing",
+    "tags": [
+      "f1_racing"
+    ],
+    "sentiment_score": -0.16,
+    "engagement": {
+      "likes": 4541,
+      "shares": 304,
+      "comments": 797
+    }
+  },
+  {
+    "id": "SENT-00008",
+    "user": "@ferrari_fanita",
+    "source": "reddit",
+    "text": "Transfer rumors heating up... we NEED a proper striker in January",
+    "published_at": "2025-11-07T07:14:27Z",
+    "topic": "Champions League",
+    "tags": [
+      "football",
+      "ucl"
+    ],
+    "sentiment_score": 0.002,
+    "engagement": {
+      "likes": 555,
+      "shares": 212,
+      "comments": 88
+    }
+  },
+  {
+    "id": "SENT-00010",
+    "user": "@pirlo",
+    "source": "blog",
+    "text": "Ferrari's new car looks absolutely mental. Can't wait for the season \ud83c\udfce\ufe0f",
+    "published_at": "2026-01-15T01:48:36Z",
+    "topic": "Random",
+    "tags": [
+      "random"
+    ],
+    "sentiment_score": 0.694,
+    "engagement": {
+      "likes": 3172,
+      "shares": 338,
+      "comments": 745
+    }
+  },
+  {
+    "id": "SENT-00083",
+    "user": "@acmhd",
+    "source": "blog",
+    "text": "Genuinely can't focus on work after that late winner last night",
+    "published_at": "01/21/2026",
+    "topic": "Champions League",
+    "tags": [
+      "football",
+      "ucl"
+    ],
+    "sentiment_score": 0.586,
+    "engagement": {
+      "likes": 1181,
+      "shares": 1035,
+      "comments": 117
+    }
+  },
+  {
+    "id": "SENT-00022",
+    "user": "@inzaghihd",
+    "source": "blog",
+    "text": "San Siro is OUR home. Derby della Madonnina belongs to us.",
+    "published_at": "04-Sep-2025",
+    "topic": "Inter Milan",
+    "tags": [
+      "football",
+      "inter"
+    ],
+    "sentiment_score": -0.346,
+    "engagement": {
+      "likes": 4303,
+      "shares": 798,
+      "comments": 791
+    }
+  },
+  {
+    "id": "SENT-00118",
+    "user": "@seedorfmilano",
+    "source": "forum",
+    "text": "Remote work is great until your wifi dies during the all-hands \ud83d\udc80",
+    "published_at": "10/15/2025",
+    "topic": "Random",
+    "tags": [
+      "random"
+    ],
+    "sentiment_score": null,
+    "engagement": {
+      "likes": 3446,
+      "shares": 40,
+      "comments": 160
+    }
+  },
+  {
+    "id": "SENT-00195",
+    "user": "@maldinihd",
+    "source": "news",
+    "text": "Ferrari's new car looks absolutely mental. Can't wait for the season \ud83c\udfce\ufe0f",
+    "published_at": "2025-08-05T17:51:20Z",
+    "topic": "Random",
+    "tags": [
+      "random"
+    ],
+    "sentiment_score": -0.236,
+    "engagement": {
+      "likes": 522,
+      "shares": 649,
+      "comments": 297
+    }
+  },
+  {
+    "id": "SENT-00185",
+    "user": "@campionehd",
+    "source": "reddit",
+    "text": "Daje Roma! The Olimpico is bouncing tonight \ud83d\udfe1\ud83d\udd34",
+    "published_at": "2025-10-29T18:02:02Z",
+    "topic": "roma",
+    "tags": [
+      "football",
+      "roma"
+    ],
+    "sentiment_score": 0.031,
+    "engagement": {
+      "likes": 2398,
+      "shares": 107,
+      "comments": 562
+    }
+  },
+  {
+    "id": "SENT-00079",
+    "user": "@acmhd",
+    "source": "news",
+    "text": "Theo Hernandez bombing down the left flank gives me life",
+    "published_at": "2025-08-07T05:51:58Z",
+    "topic": "AC Milan",
+    "tags": [
+      "football",
+      "ac_milan"
+    ],
+    "sentiment_score": -0.197,
+    "engagement": {
+      "likes": 206,
+      "shares": 696,
+      "comments": 34
+    }
+  },
+  {
+    "id": "SENT-00013",
+    "user": "@la_dolce_vitatakes",
+    "source": "twitter",
+    "text": "Champions League nights at the Meazza hit different \ud83c\udf19",
+    "published_at": "2026-01-30T11:49:20Z",
+    "topic": "AC Milan",
+    "tags": [
+      "football",
+      "ac_milan"
+    ],
+    "sentiment_score": 0.081,
+    "engagement": {
+      "likes": 2794,
+      "shares": 896,
+      "comments": 459
+    }
+  },
+  {
+    "id": "SENT-00027",
+    "user": "@ultras1908",
+    "source": "blog",
+    "text": "Anyone else think the ref was shocking tonight or just me?",
+    "published_at": "2025-12-26T16:41:02Z",
+    "topic": "Champions League",
+    "tags": [
+      "football",
+      "ucl"
+    ],
+    "sentiment_score": 0.12,
+    "engagement": {
+      "likes": 3494,
+      "shares": 1031,
+      "comments": 598
+    }
+  },
+  {
+    "id": "SENT-00177",
+    "user": "@roma_herex",
+    "source": "forum",
+    "text": "Ferrari's new car looks absolutely mental. Can't wait for the season \ud83c\udfce\ufe0f",
+    "published_at": "2025-09-30T05:12:22Z",
+    "topic": "F1 Racing",
+    "tags": [
+      "f1_racing"
+    ],
+    "sentiment_score": 0.613,
+    "engagement": null
+  },
+  {
+    "id": "SENT-00101",
+    "user": "@rossoneromilano",
+    "source": "forum",
+    "text": "Theo Hernandez bombing down the left flank gives me life",
+    "published_at": "01/16/2026",
+    "topic": "AC Milan",
+    "tags": [
+      "football",
+      "ac_milan"
+    ],
+    "sentiment_score": 0.505,
+    "engagement": {
+      "likes": 642,
+      "shares": 460,
+      "comments": 587
+    }
+  },
+  {
+    "id": "SENT-00120",
+    "user": "@interistaszn",
+    "source": "reddit",
+    "text": "Kvara is magic. Napoli have found their next legend.",
+    "published_at": "2025-12-04 12:06",
+    "topic": "Napoli",
+    "tags": [
+      "football",
+      "napoli"
+    ],
+    "sentiment_score": null,
+    "engagement": {
+      "likes": 211,
+      "shares": 895,
+      "comments": 199
+    }
+  },
+  {
+    "id": "SENT-00058",
+    "user": "@maignanx",
+    "source": "twitter",
+    "text": "Milan Fashion Week never disappoints. The Prada show was stunning.",
+    "published_at": "22-Nov-2025",
+    "topic": "Random",
+    "tags": [
+      "random"
+    ],
+    "sentiment_score": 0.419,
+    "engagement": {
+      "likes": 2848,
+      "shares": 1147,
+      "comments": 797
+    }
+  },
+  {
+    "id": "SENT-00040",
+    "user": "@futboltakes",
+    "source": "forum",
+    "text": "Freezing cold at San Siro tonight, bring layers \ud83e\udd76",
+    "published_at": "2026-01-15 00:55",
+    "topic": "Weather",
+    "tags": [
+      "weather"
+    ],
+    "sentiment_score": null,
+    "engagement": {
+      "likes": 372,
+      "shares": 670,
+      "comments": 777
+    }
+  },
+  {
+    "id": "SENT-00121",
+    "user": "@maignan2024",
+    "source": "forum",
+    "text": "Inzaghi masterclass tonight, tactical perfection",
+    "published_at": "18-Jan-2026",
+    "topic": "Inter Milan",
+    "tags": [
+      "football",
+      "inter"
+    ],
+    "sentiment_score": 0.357,
+    "engagement": {
+      "likes": 850,
+      "shares": 767,
+      "comments": 743
+    }
+  },
+  {
+    "id": "SENT-00148",
+    "user": "@ultras1899",
+    "source": "twitter",
+    "text": "Half time thoughts: we're dominating possession but need to be clinical",
+    "published_at": "2025-08-07 09:00",
+    "topic": "Champions League",
+    "tags": [
+      "football",
+      "ucl"
+    ],
+    "sentiment_score": -0.38,
+    "engagement": {
+      "likes": 485,
+      "shares": 956,
+      "comments": 752
+    }
+  },
+  {
+    "id": "SENT-00093",
+    "user": "@meazza2024",
+    "source": "reddit",
+    "text": "Ferrari's new car looks absolutely mental. Can't wait for the season \ud83c\udfce\ufe0f",
+    "published_at": "29-Aug-2025",
+    "topic": "Tech News",
+    "tags": [
+      "tech_news"
+    ],
+    "sentiment_score": 0.443,
+    "engagement": {
+      "likes": 1525,
+      "shares": 488,
+      "comments": 753
+    }
+  },
+  {
+    "id": "SENT-00205",
+    "user": "@curva1908",
+    "source": "forum",
+    "text": "AS Roma till I die. Through thick and thin. Forza Roma!",
+    "published_at": "2025-08-20T06:33:35Z",
+    "topic": "Roma",
+    "tags": [
+      "football",
+      "roma"
+    ],
+    "sentiment_score": null,
+    "engagement": {
+      "likes": 4967,
+      "shares": 352,
+      "comments": 294
+    }
+  },
+  {
+    "id": "SENT-00257",
+    "user": "@ultrastakes",
+    "source": "news",
+    "text": "The Eternal City deserves a trophy. This could be our year.",
+    "published_at": "2025-11-13T19:52:19Z",
+    "topic": "Roma",
+    "tags": [
+      "football",
+      "roma"
+    ],
+    "sentiment_score": 0.097,
+    "engagement": {
+      "likes": 3300,
+      "shares": 108,
+      "comments": 175
+    }
+  },
+  {
+    "id": "SENT-00222",
+    "user": "@tech_bro1899",
+    "source": "twitter",
+    "text": "Primavera kids looking incredible. Future is bright \ud83c\udf1f",
+    "published_at": "2025-09-08T18:50:54Z",
+    "topic": "Serie A",
+    "tags": [
+      "football",
+      "serie_a"
+    ],
+    "sentiment_score": 0.506,
+    "engagement": {
+      "likes": 764,
+      "shares": 213,
+      "comments": 604
+    }
+  },
+  {
+    "id": "SENT-00244",
+    "user": "@rino",
+    "source": "reddit",
+    "text": "Another clean sheet. Maignan is a wall. \ud83e\udde4",
+    "published_at": "12/20/2025",
+    "topic": "ac milan",
+    "tags": [
+      "football",
+      "ac_milan"
+    ],
+    "sentiment_score": -0.474,
+    "engagement": {
+      "likes": 700,
+      "shares": 737,
+      "comments": 377
+    }
+  },
+  {
+    "id": "SENT-00137",
+    "user": "@maignan_",
+    "source": "blog",
+    "text": "Rain forecast for match day, typical Milano weather \u2614",
+    "published_at": "2026-01-07T23:19:34Z",
+    "topic": "Weather",
+    "tags": [
+      "weather"
+    ],
+    "sentiment_score": 0.24,
+    "engagement": {
+      "likes": 4664,
+      "shares": 1021,
+      "comments": 515
+    }
+  },
+  {
+    "id": "SENT-00110",
+    "user": "@rinox",
+    "source": "blog",
+    "text": "Primavera kids looking incredible. Future is bright \ud83c\udf1f",
+    "published_at": "2025-09-28 20:39",
+    "topic": "Serie A",
+    "tags": [
+      "football",
+      "serie_a"
+    ],
+    "sentiment_score": 0.143,
+    "engagement": {
+      "likes": 1394,
+      "shares": 593,
+      "comments": 786
+    }
+  },
+  {
+    "id": "SENT-00182",
+    "user": "@tifosohd",
+    "source": "forum",
+    "text": "GDP numbers looking up. Maybe we can afford those match tickets after all \ud83d\ude05",
+    "published_at": "2025-08-22 01:17",
+    "topic": "F1 Racing",
+    "tags": [
+      "f1_racing"
+    ],
+    "sentiment_score": -0.112,
+    "engagement": null
+  },
+  {
+    "id": "SENT-00003",
+    "user": "@tonali99",
+    "source": "blog",
+    "text": "Match thread: who's watching? Drop your predictions below \u2b07\ufe0f",
+    "published_at": "01/22/2026",
+    "topic": "Serie A",
+    "tags": [
+      "football",
+      "serie_a"
+    ],
+    "sentiment_score": 0.341,
+    "engagement": null
+  },
+  {
+    "id": "SENT-00193",
+    "user": "@seedorftakes",
+    "source": "reddit",
+    "text": "Forza Milan! What a game at San Siro tonight \ud83d\udd34\u26ab",
+    "published_at": "2025-11-07T17:00:06Z",
+    "topic": "AC Milan",
+    "tags": [
+      "football",
+      "ac_milan"
+    ],
+    "sentiment_score": 0.75,
+    "engagement": {
+      "likes": 743,
+      "shares": 1009,
+      "comments": 412
+    }
+  },
+  {
+    "id": "SENT-00021",
+    "user": "@inzaghihd",
+    "source": "news",
+    "text": "Italian cinema is having a moment and nobody is talking about it",
+    "published_at": "2026-01-30 17:27",
+    "topic": "Tech News",
+    "tags": [
+      "tech_news"
+    ],
+    "sentiment_score": 0.639,
+    "engagement": null
+  },
+  {
+    "id": "SENT-00239",
+    "user": "@seriea2024",
+    "source": "forum",
+    "text": "Remote work is great until your wifi dies during the all-hands \ud83d\udc80",
+    "published_at": "12-Feb-2026",
+    "topic": "Tech News",
+    "tags": [
+      "tech_news"
+    ],
+    "sentiment_score": 0.26,
+    "engagement": {
+      "likes": 3904,
+      "shares": 499,
+      "comments": 489
+    }
+  },
+  {
+    "id": "SENT-00226",
+    "user": "@curvamilano",
+    "source": "twitter",
+    "text": "Nerazzurri on fire tonight! Forza Inter! \ud83d\udda4\ud83d\udc99",
+    "published_at": "2026-01-22T21:03:56Z",
+    "topic": "Inter Milan",
+    "tags": [
+      "football",
+      "inter"
+    ],
+    "sentiment_score": 0.769,
+    "engagement": {
+      "likes": 280,
+      "shares": 707,
+      "comments": 488
+    }
+  },
+  {
+    "id": "SENT-00183",
+    "user": "@tifosohd",
+    "source": "reddit",
+    "text": "Milan Fashion Week never disappoints. The Prada show was stunning.",
+    "published_at": "2025-10-31T20:07:21Z",
+    "topic": "Fashion Week",
+    "tags": [
+      "fashion_week"
+    ],
+    "sentiment_score": 0.506,
+    "engagement": null
+  },
+  {
+    "id": "SENT-00002",
+    "user": "@torino_girl",
+    "source": "news",
+    "text": "AS Roma till I die. Through thick and thin. Forza Roma!",
+    "published_at": "01/11/2026",
+    "topic": "Roma",
+    "tags": [
+      "football",
+      "roma"
+    ],
+    "sentiment_score": -0.499,
+    "engagement": {
+      "likes": 824,
+      "shares": 1186,
+      "comments": 644
+    }
+  },
+  {
+    "id": "SENT-00039",
+    "user": "@tomori",
+    "source": "forum",
+    "text": "Just tried that new restaurant in Navigli. Overpriced but decent pasta.",
+    "published_at": "08/29/2025",
+    "topic": "Fashion Week",
+    "tags": [
+      "fashion_week"
+    ],
+    "sentiment_score": 0.486,
+    "engagement": {
+      "likes": 1482,
+      "shares": 97,
+      "comments": 521
+    }
+  },
+  {
+    "id": "SENT-00181",
+    "user": "@futbolhd",
+    "source": "reddit",
+    "text": "Just tried that new restaurant in Navigli. Overpriced but decent pasta.",
+    "published_at": "2026-02-02 15:39",
+    "topic": "Fashion Week",
+    "tags": [
+      "fashion_week"
+    ],
+    "sentiment_score": 0.059,
+    "engagement": {
+      "likes": 2994,
+      "shares": 34,
+      "comments": 286
+    }
+  },
+  {
+    "id": "SENT-00030",
+    "user": "@kaka1908",
+    "source": "forum",
+    "text": "Nerazzurri on fire tonight! Forza Inter! \ud83d\udda4\ud83d\udc99",
+    "published_at": "08/06/2025",
+    "topic": "Inter Milan",
+    "tags": [
+      "football",
+      "inter"
+    ],
+    "sentiment_score": null,
+    "engagement": {
+      "likes": 3319,
+      "shares": 638,
+      "comments": 623
+    }
+  },
+  {
+    "id": "SENT-00130",
+    "user": "@milanistaita",
+    "source": "blog",
+    "text": "This espresso from the bar downstairs might be the best I've ever had \u2615",
+    "published_at": "15-Sep-2025",
+    "topic": "tech news",
+    "tags": [
+      "tech_news"
+    ],
+    "sentiment_score": -0.187,
+    "engagement": {
+      "likes": 4384,
+      "shares": 518,
+      "comments": 268
+    }
+  },
+  {
+    "id": "SENT-00171",
+    "user": "@la_dolce_vita1908",
+    "source": "twitter",
+    "text": "Champions League nights at the Meazza hit different \ud83c\udf19",
+    "published_at": "2025-10-26 05:57",
+    "topic": "AC Milan",
+    "tags": [
+      "football",
+      "ac_milan"
+    ],
+    "sentiment_score": 0.24,
+    "engagement": {
+      "likes": 2993,
+      "shares": 397,
+      "comments": 73
+    }
+  },
+  {
+    "id": "SENT-00145",
+    "user": "@la_dolce_vitaszn",
+    "source": "blog",
+    "text": "Another day, another AI startup raising millions. When does the bubble pop?",
+    "published_at": "20-Jan-2026",
+    "topic": "F1 Racing",
+    "tags": [
+      "f1_racing"
+    ],
+    "sentiment_score": -0.101,
+    "engagement": null
+  },
+  {
+    "id": "SENT-00187",
+    "user": "@nesta1899",
+    "source": "reddit",
+    "text": "Freezing cold at San Siro tonight, bring layers \ud83e\udd76",
+    "published_at": "18-Dec-2025",
+    "topic": "Weather",
+    "tags": [
+      "weather"
+    ],
+    "sentiment_score": 0.543,
+    "engagement": {
+      "likes": 1850,
+      "shares": 747,
+      "comments": 612
+    }
+  },
+  {
+    "id": "SENT-00211",
+    "user": "@espresso_loverhd",
+    "source": "reddit",
+    "text": "This espresso from the bar downstairs might be the best I've ever had \u2615",
+    "published_at": "07-Dec-2025",
+    "topic": "Random",
+    "tags": [
+      "random"
+    ],
+    "sentiment_score": 0.652,
+    "engagement": {
+      "likes": 17,
+      "shares": 1176,
+      "comments": 372
+    }
+  },
+  {
+    "id": "SENT-00066",
+    "user": "@kaka",
+    "source": "twitter",
+    "text": "Wind making every long ball unpredictable tonight \ud83d\udca8",
+    "published_at": "2026-01-18 12:30",
+    "topic": "Weather",
+    "tags": [
+      "weather"
+    ],
+    "sentiment_score": -0.223,
+    "engagement": {
+      "likes": 2668,
+      "shares": 18,
+      "comments": 420
+    }
+  },
+  {
+    "id": "SENT-00037",
+    "user": "@roma_here_real",
+    "source": "reddit",
+    "text": "Inter dominating the midfield, Barella is a machine",
+    "published_at": "08/10/2025",
+    "topic": "Inter Milan",
+    "tags": [
+      "football",
+      "inter"
+    ],
+    "sentiment_score": 0.394,
+    "engagement": {
+      "likes": 249,
+      "shares": 871,
+      "comments": 444
+    }
+  },
+  {
+    "id": "SENT-00076",
+    "user": "@tomorifan",
+    "source": "twitter",
+    "text": "Partenopei on a roll! Scudetto defense looking strong \ud83c\udfc6",
+    "published_at": "17-Oct-2025",
+    "topic": "Napoli",
+    "tags": [
+      "football",
+      "napoli"
+    ],
+    "sentiment_score": null,
+    "engagement": {
+      "likes": 2051,
+      "shares": 685,
+      "comments": 223
+    }
+  },
+  {
+    "id": "SENT-00198",
+    "user": "@rinoszn",
+    "source": "twitter",
+    "text": "Kvara is magic. Napoli have found their next legend.",
+    "published_at": "10-Dec-2025",
+    "topic": "Napoli",
+    "tags": [
+      "football",
+      "napoli"
+    ],
+    "sentiment_score": -0.292,
+    "engagement": null
+  },
+  {
+    "id": "SENT-00114",
+    "user": "@tech_bro_real",
+    "source": "reddit",
+    "text": "Daje Roma! The Olimpico is bouncing tonight \ud83d\udfe1\ud83d\udd34",
+    "published_at": "2025-08-07T09:52:59Z",
+    "topic": "Roma",
+    "tags": [
+      "football",
+      "roma"
+    ],
+    "sentiment_score": 0.413,
+    "engagement": {
+      "likes": 1645,
+      "shares": 798,
+      "comments": 148
+    }
+  },
+  {
+    "id": "SENT-00159",
+    "user": "@calcio",
+    "source": "news",
+    "text": "Snow in Milan tomorrow apparently. Time to break out the big coat \ud83e\udd76",
+    "published_at": "08/15/2025",
+    "topic": "Random",
+    "tags": [
+      "random"
+    ],
+    "sentiment_score": -0.038,
+    "engagement": {
+      "likes": 858,
+      "shares": 757,
+      "comments": 189
+    }
+  },
+  {
+    "id": "SENT-00065",
+    "user": "@kaka",
+    "source": "twitter",
+    "text": "Can someone explain that offside call to me? Genuinely confused.",
+    "published_at": "2025-10-18T01:15:07Z",
+    "topic": "Champions League",
+    "tags": [
+      "football",
+      "ucl"
+    ],
+    "sentiment_score": 0.073,
+    "engagement": {
+      "likes": 3250,
+      "shares": 1012,
+      "comments": 476
+    }
+  },
+  {
+    "id": "SENT-00131",
+    "user": "@tifoso99",
+    "source": "blog",
+    "text": "This espresso from the bar downstairs might be the best I've ever had \u2615",
+    "published_at": "16-Nov-2025",
+    "topic": "F1 Racing",
+    "tags": [
+      "f1_racing"
+    ],
+    "sentiment_score": 0.139,
+    "engagement": {
+      "likes": 1292,
+      "shares": 162,
+      "comments": 145
+    }
+  },
+  {
+    "id": "SENT-00106",
+    "user": "@rossoneroita",
+    "source": "forum",
+    "text": "Genuinely can't focus on work after that late winner last night",
+    "published_at": "01/01/2026",
+    "topic": "Champions League",
+    "tags": [
+      "football",
+      "ucl"
+    ],
+    "sentiment_score": -0.011,
+    "engagement": null
+  },
+  {
+    "id": "SENT-00046",
+    "user": "@leao_fan_",
+    "source": "blog",
+    "text": "",
+    "published_at": "06-Dec-2025",
+    "topic": "Fashion Week",
+    "tags": [
+      "fashion_week"
+    ],
+    "sentiment_score": 0.633,
+    "engagement": {
+      "likes": 1704,
+      "shares": 980,
+      "comments": 300
+    }
+  },
+  {
+    "id": "SENT-00107",
+    "user": "@rossoneroita",
+    "source": "reddit",
+    "text": "Hot take: this Milan squad is better than the 2007 CL team. Fight me.",
+    "published_at": "10/24/2025",
+    "topic": "AC Milan",
+    "tags": [
+      "football",
+      "ac_milan"
+    ],
+    "sentiment_score": 0.774,
+    "engagement": {
+      "likes": 1684,
+      "shares": 481,
+      "comments": 335
+    }
+  },
+  {
+    "id": "SENT-00169",
+    "user": "@ilDiavolo",
+    "source": "forum",
+    "text": "Freezing cold at San Siro tonight, bring layers \ud83e\udd76",
+    "published_at": "2025-10-21 06:14",
+    "topic": "Weather",
+    "tags": [
+      "weather"
+    ],
+    "sentiment_score": -0.459,
+    "engagement": {
+      "likes": 619,
+      "shares": 812,
+      "comments": 126
+    }
+  },
+  {
+    "id": "SENT-00132",
+    "user": "@tifoso99",
+    "source": "forum",
+    "text": "",
+    "published_at": "2026-01-30T04:05:43Z",
+    "topic": "AC Milan",
+    "tags": [
+      "football",
+      "ac_milan"
+    ],
+    "sentiment_score": 0.023,
+    "engagement": {
+      "likes": 4854,
+      "shares": 1101,
+      "comments": 226
+    }
+  },
+  {
+    "id": "SENT-00240",
+    "user": "@ultrasfan",
+    "source": "reddit",
+    "text": "Serie A title race is absolutely insane this year. 4 teams in it.",
+    "published_at": "15-Nov-2025",
+    "topic": "Transfer Rumors",
+    "tags": [
+      "football",
+      "transfers"
+    ],
+    "sentiment_score": -0.009,
+    "engagement": {
+      "likes": 4611,
+      "shares": 204,
+      "comments": 550
+    }
+  },
+  {
+    "id": "SENT-00113",
+    "user": "@tech_bro_real",
+    "source": "reddit",
+    "text": "The Eternal City deserves a trophy. This could be our year.",
+    "published_at": "2025-09-11T16:15:51Z",
+    "topic": "Roma",
+    "tags": [
+      "football",
+      "roma"
+    ],
+    "sentiment_score": 0.053,
+    "engagement": {
+      "likes": 3615,
+      "shares": 683,
+      "comments": 403
+    }
+  },
+  {
+    "id": "SENT-00059",
+    "user": "@maignanx",
+    "source": "reddit",
+    "text": "Italian cinema is having a moment and nobody is talking about it",
+    "published_at": "18-Sep-2025",
+    "topic": "Random",
+    "tags": [
+      "random"
+    ],
+    "sentiment_score": null,
+    "engagement": {
+      "likes": 4632,
+      "shares": 826,
+      "comments": 505
+    }
+  },
+  {
+    "id": "SENT-00032",
+    "user": "@serieax",
+    "source": "forum",
+    "text": "Inter dominating the midfield, Barella is a machine",
+    "published_at": "11/15/2025",
+    "topic": "Inter Milan",
+    "tags": [
+      "football",
+      "inter"
+    ],
+    "sentiment_score": 0.672,
+    "engagement": {
+      "likes": 2506,
+      "shares": 148,
+      "comments": 297
+    }
+  },
+  {
+    "id": "SENT-00237",
+    "user": "@roma_boyhd",
+    "source": "news",
+    "text": "Remote work is great until your wifi dies during the all-hands \ud83d\udc80",
+    "published_at": "11/17/2025",
+    "topic": "Fashion Week",
+    "tags": [
+      "fashion_week"
+    ],
+    "sentiment_score": 0.634,
+    "engagement": {
+      "likes": 4879,
+      "shares": 321,
+      "comments": 799
+    }
+  },
+  {
+    "id": "SENT-00017",
+    "user": "@roma_here07",
+    "source": "news",
+    "text": "Full time whistle. 3 points in the bag. Avanti cos\u00ec! \ud83d\udcaa",
+    "published_at": "09/26/2025",
+    "topic": "Champions League",
+    "tags": [
+      "football",
+      "ucl"
+    ],
+    "sentiment_score": -0.305,
+    "engagement": {
+      "likes": 3434,
+      "shares": 1174,
+      "comments": 49
+    }
+  },
+  {
+    "id": "SENT-00223",
+    "user": "@maldiniszn",
+    "source": "blog",
+    "text": "Remote work is great until your wifi dies during the all-hands \ud83d\udc80",
+    "published_at": "30-Aug-2025",
+    "topic": "Random",
+    "tags": [
+      "random"
+    ],
+    "sentiment_score": -0.292,
+    "engagement": {
+      "likes": 1760,
+      "shares": 994,
+      "comments": 585
+    }
+  },
+  {
+    "id": "SENT-00089",
+    "user": "@tech_brovibes",
+    "source": "news",
+    "text": "",
+    "published_at": "2025-11-17T10:49:56Z",
+    "topic": "Tech News",
+    "tags": [
+      "tech_news"
+    ],
+    "sentiment_score": 0.375,
+    "engagement": {
+      "likes": 3881,
+      "shares": 1054,
+      "comments": 543
+    }
+  },
+  {
+    "id": "SENT-00180",
+    "user": "@futbolhd",
+    "source": "news",
+    "text": "Watching highlights for the 5th time and still getting chills",
+    "published_at": "11/13/2025",
+    "topic": "Champions League",
+    "tags": [
+      "football",
+      "ucl"
+    ],
+    "sentiment_score": 0.265,
+    "engagement": {
+      "likes": 470,
+      "shares": 973,
+      "comments": 644
+    }
+  },
+  {
+    "id": "SENT-00016",
+    "user": "@roma_here07",
+    "source": "reddit",
+    "text": "Snow in Milan tomorrow apparently. Time to break out the big coat \ud83e\udd76",
+    "published_at": "01/05/2026",
+    "topic": "F1 Racing",
+    "tags": [
+      "f1_racing"
+    ],
+    "sentiment_score": 0.276,
+    "engagement": {
+      "likes": 3393,
+      "shares": 976,
+      "comments": 264
+    }
+  },
+  {
+    "id": "SENT-00138",
+    "user": "@maignan_",
+    "source": "twitter",
+    "text": "Stadio Diego Armando Maradona erupting tonight. Incredible atmosphere.",
+    "published_at": "2026-01-20 07:29",
+    "topic": "Napoli",
+    "tags": [
+      "football",
+      "napoli"
+    ],
+    "sentiment_score": null,
+    "engagement": {
+      "likes": 1286,
+      "shares": 55,
+      "comments": 702
+    }
+  },
+  {
+    "id": "SENT-00136",
+    "user": "@maignan_",
+    "source": "forum",
+    "text": "GDP numbers looking up. Maybe we can afford those match tickets after all \ud83d\ude05",
+    "published_at": "26-Sep-2025",
+    "topic": "Fashion Week",
+    "tags": [
+      "fashion_week"
+    ],
+    "sentiment_score": 0.487,
+    "engagement": {
+      "likes": 1559,
+      "shares": 952,
+      "comments": 435
+    }
+  },
+  {
+    "id": "SENT-00005",
+    "user": "@rossonero1899",
+    "source": "twitter",
+    "text": "Champions League nights at the Meazza hit different \ud83c\udf19",
+    "published_at": "12/06/2025",
+    "topic": "AC Milan",
+    "tags": [
+      "football",
+      "ac_milan"
+    ],
+    "sentiment_score": -0.428,
+    "engagement": {
+      "likes": 115,
+      "shares": 185,
+      "comments": 798
+    }
+  },
+  {
+    "id": "SENT-00162",
+    "user": "@curvax",
+    "source": "news",
+    "text": "Snow in Milan tomorrow apparently. Time to break out the big coat \ud83e\udd76",
+    "published_at": "09/17/2025",
+    "topic": "F1 Racing",
+    "tags": [
+      "f1_racing"
+    ],
+    "sentiment_score": 0.137,
+    "engagement": {
+      "likes": 2213,
+      "shares": 6,
+      "comments": 174
+    }
+  },
+  {
+    "id": "SENT-00203",
+    "user": "@theo_stan",
+    "source": "news",
+    "text": "Snow in Milan tomorrow apparently. Time to break out the big coat \ud83e\udd76",
+    "published_at": "2025-08-19T22:40:32Z",
+    "topic": "F1 Racing",
+    "tags": [
+      "f1_racing"
+    ],
+    "sentiment_score": null,
+    "engagement": {
+      "likes": 4616,
+      "shares": 438,
+      "comments": 485
+    }
+  },
+  {
+    "id": "SENT-00127",
+    "user": "@tech_bro1908",
+    "source": "news",
+    "text": "Leao is genuinely world class when he turns up. No debate.",
+    "published_at": "03-Oct-2025",
+    "topic": "ac milan",
+    "tags": [
+      "football",
+      "ac_milan"
+    ],
+    "sentiment_score": null,
+    "engagement": {
+      "likes": 71,
+      "shares": 654,
+      "comments": 648
+    }
+  },
+  {
+    "id": "SENT-00104",
+    "user": "@modaMilanoszn",
+    "source": "forum",
+    "text": "Second star on the chest and we're not stopping here \u2b50\u2b50",
+    "published_at": "01/06/2026",
+    "topic": "Inter Milan",
+    "tags": [
+      "football",
+      "inter"
+    ],
+    "sentiment_score": 0.083,
+    "engagement": {
+      "likes": 472,
+      "shares": 809,
+      "comments": 186
+    }
+  },
+  {
+    "id": "SENT-00215",
+    "user": "@espresso_lover",
+    "source": "reddit",
+    "text": "This espresso from the bar downstairs might be the best I've ever had \u2615",
+    "published_at": "2025-09-10 17:03",
+    "topic": "Tech News",
+    "tags": [
+      "tech_news"
+    ],
+    "sentiment_score": 0.18,
+    "engagement": {
+      "likes": 4315,
+      "shares": 723,
+      "comments": 575
+    }
+  },
+  {
+    "id": "SENT-00038",
+    "user": "@tomori",
+    "source": "forum",
+    "text": "Just tried that new restaurant in Navigli. Overpriced but decent pasta.",
+    "published_at": "2025-12-02 00:41",
+    "topic": "Random",
+    "tags": [
+      "random"
+    ],
+    "sentiment_score": -0.045,
+    "engagement": {
+      "likes": 540,
+      "shares": 349,
+      "comments": 576
+    }
+  },
+  {
+    "id": "SENT-00197",
+    "user": "@rinoszn",
+    "source": "reddit",
+    "text": "Freezing cold at San Siro tonight, bring layers \ud83e\udd76",
+    "published_at": "2025-11-15T16:51:38Z",
+    "topic": "Weather",
+    "tags": [
+      "weather"
+    ],
+    "sentiment_score": -0.335,
+    "engagement": null
+  },
+  {
+    "id": "SENT-00067",
+    "user": "@maignanmilano",
+    "source": "forum",
+    "text": "La Vecchia Signora is back. Scudetto race is ON.",
+    "published_at": "09-Sep-2025",
+    "topic": "juventus",
+    "tags": [
+      "football",
+      "juventus"
+    ],
+    "sentiment_score": 0.772,
+    "engagement": {
+      "likes": 3335,
+      "shares": 945,
+      "comments": 407
+    }
+  },
+  {
+    "id": "SENT-00160",
+    "user": "@calcio",
+    "source": "forum",
+    "text": "GDP numbers looking up. Maybe we can afford those match tickets after all \ud83d\ude05",
+    "published_at": "2025-11-19T23:54:33Z",
+    "topic": "Random",
+    "tags": [
+      "random"
+    ],
+    "sentiment_score": 0.686,
+    "engagement": {
+      "likes": 2104,
+      "shares": 176,
+      "comments": 675
+    }
+  },
+  {
+    "id": "SENT-00036",
+    "user": "@roma_here_real",
+    "source": "reddit",
+    "text": "Match thread: who's watching? Drop your predictions below \u2b07\ufe0f",
+    "published_at": "2025-10-22T02:56:38Z",
+    "topic": "Serie A",
+    "tags": [
+      "football",
+      "serie_a"
+    ],
+    "sentiment_score": null,
+    "engagement": null
+  },
+  {
+    "id": "SENT-00192",
+    "user": "@kakaita",
+    "source": "reddit",
+    "text": "Leao is genuinely world class when he turns up. No debate.",
+    "published_at": "20-Jan-2026",
+    "topic": "AC Milan",
+    "tags": [
+      "football",
+      "ac_milan"
+    ],
+    "sentiment_score": 0.792,
+    "engagement": {
+      "likes": 3849,
+      "shares": 540,
+      "comments": 94
+    }
+  },
+  {
+    "id": "SENT-00072",
+    "user": "@tifoso",
+    "source": "twitter",
+    "text": "Remote work is great until your wifi dies during the all-hands \ud83d\udc80",
+    "published_at": "08-Dec-2025",
+    "topic": "Fashion Week",
+    "tags": [
+      "fashion_week"
+    ],
+    "sentiment_score": -0.076,
+    "engagement": {
+      "likes": 948,
+      "shares": 457,
+      "comments": 387
+    }
+  },
+  {
+    "id": "SENT-00077",
+    "user": "@modaMilanovibes",
+    "source": "forum",
+    "text": "The commute on ATM today was absolutely brutal. 40 mins for 3 stops.",
+    "published_at": "02/08/2026",
+    "topic": "F1 Racing",
+    "tags": [
+      "f1_racing"
+    ],
+    "sentiment_score": 0.388,
+    "engagement": {
+      "likes": 917,
+      "shares": 404,
+      "comments": 275
+    }
+  },
+  {
+    "id": "SENT-00024",
+    "user": "@boban",
+    "source": "forum",
+    "text": "San Siro atmosphere was ELECTRIC tonight. This is what football is about.",
+    "published_at": "2025-09-30 04:51",
+    "topic": "AC Milan",
+    "tags": [
+      "football",
+      "ac_milan"
+    ],
+    "sentiment_score": 0.513,
+    "engagement": {
+      "likes": 2298,
+      "shares": 184,
+      "comments": 790
+    }
+  },
+  {
+    "id": "SENT-00075",
+    "user": "@tomorifan",
+    "source": "reddit",
+    "text": "AS Roma till I die. Through thick and thin. Forza Roma!",
+    "published_at": "2025-11-30T19:21:03Z",
+    "topic": "Roma",
+    "tags": [
+      "football",
+      "roma"
+    ],
+    "sentiment_score": -0.465,
+    "engagement": null
+  },
+  {
+    "id": "SENT-00188",
+    "user": "@nesta1899",
+    "source": "reddit",
+    "text": "That pass from Bennacer was pure filth. Midfield maestro.",
+    "published_at": "12-Oct-2025",
+    "topic": "AC Milan",
+    "tags": [
+      "football",
+      "ac_milan"
+    ],
+    "sentiment_score": 0.8,
+    "engagement": null
+  },
+  {
+    "id": "SENT-00070",
+    "user": "@bobanszn",
+    "source": "twitter",
+    "text": "",
+    "published_at": "09/22/2025",
+    "topic": "Fashion Week",
+    "tags": [
+      "fashion_week"
+    ],
+    "sentiment_score": 0.493,
+    "engagement": {
+      "likes": 454,
+      "shares": 884,
+      "comments": 393
+    }
+  },
+  {
+    "id": "SENT-00068",
+    "user": "@maignanmilano",
+    "source": "reddit",
+    "text": "Just tried that new restaurant in Navigli. Overpriced but decent pasta.",
+    "published_at": "08/26/2025",
+    "topic": "Random",
+    "tags": [
+      "random"
+    ],
+    "sentiment_score": 0.21,
+    "engagement": {
+      "likes": 3448,
+      "shares": 558,
+      "comments": 494
+    }
+  },
+  {
+    "id": "SENT-00012",
+    "user": "@interistafan",
+    "source": "twitter",
+    "text": "Wind making every long ball unpredictable tonight \ud83d\udca8",
+    "published_at": "10/10/2025",
+    "topic": "Weather",
+    "tags": [
+      "weather"
+    ],
+    "sentiment_score": 0.478,
+    "engagement": {
+      "likes": 1985,
+      "shares": 1044,
+      "comments": 170
+    }
+  },
+  {
+    "id": "SENT-00084",
+    "user": "@forza99",
+    "source": "forum",
+    "text": "The away section was bouncing today. Best fans in Italy and it's not close.",
+    "published_at": "2026-02-14 18:32",
+    "topic": "serie a",
+    "tags": [
+      "football",
+      "serie_a"
+    ],
+    "sentiment_score": 0.319,
+    "engagement": {
+      "likes": 2629,
+      "shares": 153,
+      "comments": 176
+    }
+  },
+  {
+    "id": "SENT-00218",
+    "user": "@theo_stanfan",
+    "source": "blog",
+    "text": "Half time thoughts: we're dominating possession but need to be clinical",
+    "published_at": "2025-10-05T15:39:50Z",
+    "topic": "serie a",
+    "tags": [
+      "football",
+      "serie_a"
+    ],
+    "sentiment_score": 0.679,
+    "engagement": {
+      "likes": 2565,
+      "shares": 631,
+      "comments": 31
+    }
+  },
+  {
+    "id": "SENT-00250",
+    "user": "@seedorf07",
+    "source": "twitter",
+    "text": "",
+    "published_at": "11-Jan-2026",
+    "topic": "Random",
+    "tags": [
+      "random"
+    ],
+    "sentiment_score": 0.264,
+    "engagement": {
+      "likes": 529,
+      "shares": 1200,
+      "comments": 114
+    }
+  },
+  {
+    "id": "SENT-00141",
+    "user": "@seedorf_",
+    "source": "reddit",
+    "text": "Napoli playing the best football in Italy right now, no debate.",
+    "published_at": "12/31/2025",
+    "topic": "napoli",
+    "tags": [
+      "football",
+      "napoli"
+    ],
+    "sentiment_score": 0.366,
+    "engagement": {
+      "likes": 3909,
+      "shares": 290,
+      "comments": 447
+    }
+  },
+  {
+    "id": "SENT-00189",
+    "user": "@tonalifan",
+    "source": "blog",
+    "text": "Hailstorm delay at the stadium, fans soaked but still singing",
+    "published_at": "01/20/2026",
+    "topic": "Weather",
+    "tags": [
+      "weather"
+    ],
+    "sentiment_score": -0.395,
+    "engagement": {
+      "likes": 2465,
+      "shares": 1187,
+      "comments": 44
+    }
+  },
+  {
+    "id": "SENT-00235",
+    "user": "@rino2k",
+    "source": "reddit",
+    "text": "Inzaghi masterclass tonight, tactical perfection",
+    "published_at": "2025-09-17T05:45:51Z",
+    "topic": "Inter Milan",
+    "tags": [
+      "football",
+      "inter"
+    ],
+    "sentiment_score": 0.142,
+    "engagement": {
+      "likes": 3865,
+      "shares": 118,
+      "comments": 166
+    }
+  },
+  {
+    "id": "SENT-00103",
+    "user": "@ilDiavolovibes",
+    "source": "news",
+    "text": "Partenopei on a roll! Scudetto defense looking strong \ud83c\udfc6",
+    "published_at": "2026-02-08 15:25",
+    "topic": "napoli",
+    "tags": [
+      "football",
+      "napoli"
+    ],
+    "sentiment_score": 0.298,
+    "engagement": {
+      "likes": 3921,
+      "shares": 1134,
+      "comments": 642
+    }
+  },
+  {
+    "id": "SENT-00044",
+    "user": "@napoli_ultra_official",
+    "source": "twitter",
+    "text": "Scooter almost took me out on Via Torino. Classic Milano.",
+    "published_at": "08-Dec-2025",
+    "topic": "Random",
+    "tags": [
+      "random"
+    ],
+    "sentiment_score": -0.272,
+    "engagement": {
+      "likes": 2580,
+      "shares": 241,
+      "comments": 570
+    }
+  },
+  {
+    "id": "SENT-00246",
+    "user": "@tech_bromilano",
+    "source": "blog",
+    "text": "Roma fighting for every ball, this is what Romanisti want to see.",
+    "published_at": "2025-10-21T18:12:15Z",
+    "topic": "Roma",
+    "tags": [
+      "football",
+      "roma"
+    ],
+    "sentiment_score": 0.659,
+    "engagement": {
+      "likes": 2224,
+      "shares": 376,
+      "comments": 3
+    }
+  },
+  {
+    "id": "SENT-00011",
+    "user": "@interistafan",
+    "source": "forum",
+    "text": "Italian cinema is having a moment and nobody is talking about it",
+    "published_at": "24-Oct-2025",
+    "topic": "F1 Racing",
+    "tags": [
+      "f1_racing"
+    ],
+    "sentiment_score": 0.161,
+    "engagement": {
+      "likes": 2377,
+      "shares": 398,
+      "comments": 21
+    }
+  },
+  {
+    "id": "SENT-00126",
+    "user": "@tech_bro1908",
+    "source": "reddit",
+    "text": "Nerazzurri on fire tonight! Forza Inter! \ud83d\udda4\ud83d\udc99",
+    "published_at": "2026-01-15 03:39",
+    "topic": "Inter Milan",
+    "tags": [
+      "football",
+      "inter"
+    ],
+    "sentiment_score": 0.203,
+    "engagement": {
+      "likes": 608,
+      "shares": 706,
+      "comments": 0
+    }
+  },
+  {
+    "id": "SENT-00234",
+    "user": "@rino2k",
+    "source": "blog",
+    "text": "That Pulisic goal was absolutely filthy. On repeat all night.",
+    "published_at": "2025-11-15T14:44:15Z",
+    "topic": "AC Milan",
+    "tags": [
+      "football",
+      "ac_milan"
+    ],
+    "sentiment_score": 0.829,
+    "engagement": {
+      "likes": 3966,
+      "shares": 793,
+      "comments": 193
+    }
+  },
+  {
+    "id": "SENT-00091",
+    "user": "@torino_girldaily",
+    "source": "reddit",
+    "text": "",
+    "published_at": "2025-12-12 17:55",
+    "topic": "Tech News",
+    "tags": [
+      "tech_news"
+    ],
+    "sentiment_score": 0.335,
+    "engagement": null
+  },
+  {
+    "id": "SENT-00085",
+    "user": "@forza99",
+    "source": "news",
+    "text": "Venice Film Festival lineup looks incredible this year",
+    "published_at": "2026-01-10T01:04:48Z",
+    "topic": "Random",
+    "tags": [
+      "random"
+    ],
+    "sentiment_score": 0.054,
+    "engagement": {
+      "likes": 982,
+      "shares": 859,
+      "comments": 400
+    }
+  },
+  {
+    "id": "SENT-00221",
+    "user": "@tech_bro1899",
+    "source": "reddit",
+    "text": "GDP numbers looking up. Maybe we can afford those match tickets after all \ud83d\ude05",
+    "published_at": "2025-10-24T00:39:59Z",
+    "topic": "Tech News",
+    "tags": [
+      "tech_news"
+    ],
+    "sentiment_score": -0.267,
+    "engagement": {
+      "likes": 132,
+      "shares": 780,
+      "comments": 420
+    }
+  },
+  {
+    "id": "SENT-00265",
+    "user": "@pulisic",
+    "source": "twitter",
+    "text": "Leao is genuinely world class when he turns up. No debate.",
+    "published_at": "2025-08-03 05:03",
+    "topic": "AC Milan",
+    "tags": [
+      "football",
+      "ac_milan"
+    ],
+    "sentiment_score": 0.425,
+    "engagement": null
+  },
+  {
+    "id": "SENT-00172",
+    "user": "@la_dolce_vita1908",
+    "source": "twitter",
+    "text": "Primavera kids looking incredible. Future is bright \ud83c\udf1f",
+    "published_at": "2025-12-02 07:30",
+    "topic": "Serie A",
+    "tags": [
+      "football",
+      "serie_a"
+    ],
+    "sentiment_score": -0.47,
+    "engagement": {
+      "likes": 3093,
+      "shares": 873,
+      "comments": 12
+    }
+  },
+  {
+    "id": "SENT-00128",
+    "user": "@milanistaita",
+    "source": "blog",
+    "text": "This espresso from the bar downstairs might be the best I've ever had \u2615",
+    "published_at": "01/23/2026",
+    "topic": "Random",
+    "tags": [
+      "random"
+    ],
+    "sentiment_score": 0.677,
+    "engagement": {
+      "likes": 3356,
+      "shares": 773,
+      "comments": 16
+    }
+  },
+  {
+    "id": "SENT-00146",
+    "user": "@curva",
+    "source": "news",
+    "text": "3 points! We keep climbing. Scudetto is not a dream anymore \ud83c\udfc6",
+    "published_at": "09/09/2025",
+    "topic": "transfer rumors",
+    "tags": [
+      "football",
+      "transfers"
+    ],
+    "sentiment_score": -0.054,
+    "engagement": {
+      "likes": 3620,
+      "shares": 985,
+      "comments": 674
+    }
+  },
+  {
+    "id": "SENT-00020",
+    "user": "@inzaghihd",
+    "source": "news",
+    "text": "Match thread: who's watching? Drop your predictions below \u2b07\ufe0f",
+    "published_at": "12/25/2025",
+    "topic": "Champions League",
+    "tags": [
+      "football",
+      "ucl"
+    ],
+    "sentiment_score": 0.463,
+    "engagement": {
+      "likes": 1692,
+      "shares": 1106,
+      "comments": 591
+    }
+  },
+  {
+    "id": "SENT-00243",
+    "user": "@rino",
+    "source": "blog",
+    "text": "Venice Film Festival lineup looks incredible this year",
+    "published_at": "2025-08-19T00:33:19Z",
+    "topic": "Random",
+    "tags": [
+      "random"
+    ],
+    "sentiment_score": 0.003,
+    "engagement": {
+      "likes": 2273,
+      "shares": 912,
+      "comments": 488
+    }
+  },
+  {
+    "id": "SENT-00006",
+    "user": "@rossonero1899",
+    "source": "forum",
+    "text": "Forza Milan! What a game at San Siro tonight \ud83d\udd34\u26ab",
+    "published_at": "2025-08-22 14:11",
+    "topic": "AC Milan",
+    "tags": [
+      "football",
+      "ac_milan"
+    ],
+    "sentiment_score": 0.131,
+    "engagement": {
+      "likes": 4252,
+      "shares": 1037,
+      "comments": 327
+    }
+  },
+  {
+    "id": "SENT-00254",
+    "user": "@ferrari_fan",
+    "source": "forum",
+    "text": "",
+    "published_at": "2026-01-27T11:31:38Z",
+    "topic": "Inter Milan",
+    "tags": [
+      "football",
+      "inter"
+    ],
+    "sentiment_score": 0.768,
+    "engagement": {
+      "likes": 2155,
+      "shares": 890,
+      "comments": 365
+    }
+  },
+  {
+    "id": "SENT-00247",
+    "user": "@tech_bromilano",
+    "source": "reddit",
+    "text": "Snowing in Milano, San Siro looks magical under the floodlights \u2744\ufe0f",
+    "published_at": "30-Jan-2026",
+    "topic": "weather",
+    "tags": [
+      "weather"
+    ],
+    "sentiment_score": -0.33,
+    "engagement": {
+      "likes": 1170,
+      "shares": 972,
+      "comments": 398
+    }
+  },
+  {
+    "id": "SENT-00095",
+    "user": "@sheva1908",
+    "source": "blog",
+    "text": "Just watched the tactical breakdown of our 4-2-3-1. Chef's kiss.",
+    "published_at": "10/07/2025",
+    "topic": "Serie A",
+    "tags": [
+      "football",
+      "serie_a"
+    ],
+    "sentiment_score": -0.475,
+    "engagement": {
+      "likes": 695,
+      "shares": 1118,
+      "comments": 457
+    }
+  },
+  {
+    "id": "SENT-00015",
+    "user": "@la_dolce_vitatakes",
+    "source": "reddit",
+    "text": "Nerazzurri on fire tonight! Forza Inter! \ud83d\udda4\ud83d\udc99",
+    "published_at": "2025-08-06 00:36",
+    "topic": "Inter Milan",
+    "tags": [
+      "football",
+      "inter"
+    ],
+    "sentiment_score": 0.085,
+    "engagement": {
+      "likes": 3097,
+      "shares": 896,
+      "comments": 500
+    }
+  },
+  {
+    "id": "SENT-00098",
+    "user": "@baresiita",
+    "source": "forum",
+    "text": "",
+    "published_at": "2025-10-29 10:29",
+    "topic": "Juventus",
+    "tags": [
+      "football",
+      "juventus"
+    ],
+    "sentiment_score": 0.658,
+    "engagement": {
+      "likes": 4376,
+      "shares": 1001,
+      "comments": 555
+    }
+  },
+  {
+    "id": "SENT-00025",
+    "user": "@gattuso",
+    "source": "news",
+    "text": "Second star on the chest and we're not stopping here \u2b50\u2b50",
+    "published_at": "2025-11-02T11:02:53Z",
+    "topic": "Inter Milan",
+    "tags": [
+      "football",
+      "inter"
+    ],
+    "sentiment_score": 0.312,
+    "engagement": {
+      "likes": 776,
+      "shares": 1027,
+      "comments": 369
+    }
+  },
+  {
+    "id": "SENT-00202",
+    "user": "@theo_stan",
+    "source": "reddit",
+    "text": "New kit just dropped and it's actually gorgeous for once \ud83d\ude0d",
+    "published_at": "12/23/2025",
+    "topic": "Serie A",
+    "tags": [
+      "football",
+      "serie_a"
+    ],
+    "sentiment_score": null,
+    "engagement": {
+      "likes": 4939,
+      "shares": 978,
+      "comments": 35
+    }
+  },
+  {
+    "id": "SENT-00212",
+    "user": "@espresso_loverhd",
+    "source": "reddit",
+    "text": "Match thread: who's watching? Drop your predictions below \u2b07\ufe0f",
+    "published_at": "2026-02-06T17:44:29Z",
+    "topic": "Champions League",
+    "tags": [
+      "football",
+      "ucl"
+    ],
+    "sentiment_score": 0.144,
+    "engagement": {
+      "likes": 2852,
+      "shares": 929,
+      "comments": 152
+    }
+  },
+  {
+    "id": "SENT-00143",
+    "user": "@la_dolce_vitaszn",
+    "source": "reddit",
+    "text": "Scooter almost took me out on Via Torino. Classic Milano.",
+    "published_at": "2026-01-22 16:23",
+    "topic": "Tech News",
+    "tags": [
+      "tech_news"
+    ],
+    "sentiment_score": 0.577,
+    "engagement": {
+      "likes": 4560,
+      "shares": 318,
+      "comments": 114
+    }
+  },
+  {
+    "id": "SENT-00144",
+    "user": "@la_dolce_vitaszn",
+    "source": "reddit",
+    "text": "Italian cinema is having a moment and nobody is talking about it",
+    "published_at": "2025-08-14 17:23",
+    "topic": "Random",
+    "tags": [
+      "random"
+    ],
+    "sentiment_score": 0.072,
+    "engagement": {
+      "likes": 1767,
+      "shares": 68,
+      "comments": 417
+    }
+  },
+  {
+    "id": "SENT-00154",
+    "user": "@curvaSud_",
+    "source": "reddit",
+    "text": "Milan Fashion Week never disappoints. The Prada show was stunning.",
+    "published_at": "01-Dec-2025",
+    "topic": "F1 Racing",
+    "tags": [
+      "f1_racing"
+    ],
+    "sentiment_score": 0.002,
+    "engagement": null
+  },
+  {
+    "id": "SENT-00060",
+    "user": "@maignanx",
+    "source": "news",
+    "text": "Forza Milan! What a game at San Siro tonight \ud83d\udd34\u26ab",
+    "published_at": "2025-11-27 14:46",
+    "topic": "AC Milan",
+    "tags": [
+      "football",
+      "ac_milan"
+    ],
+    "sentiment_score": -0.493,
+    "engagement": null
+  },
+  {
+    "id": "SENT-00056",
+    "user": "@tech_broita",
+    "source": "twitter",
+    "text": "Champions League nights at the Meazza hit different \ud83c\udf19",
+    "published_at": "2025-11-11T09:46:18Z",
+    "topic": "AC Milan",
+    "tags": [
+      "football",
+      "ac_milan"
+    ],
+    "sentiment_score": 0.703,
+    "engagement": {
+      "likes": 3601,
+      "shares": 1138,
+      "comments": 731
+    }
+  },
+  {
+    "id": "SENT-00260",
+    "user": "@ferrari_fanszn",
+    "source": "forum",
+    "text": "Scooter almost took me out on Via Torino. Classic Milano.",
+    "published_at": "12/25/2025",
+    "topic": "Fashion Week",
+    "tags": [
+      "fashion_week"
+    ],
+    "sentiment_score": 0.657,
+    "engagement": {
+      "likes": 3120,
+      "shares": 642,
+      "comments": 187
+    }
+  },
+  {
+    "id": "SENT-00256",
+    "user": "@azzurri_real",
+    "source": "reddit",
+    "text": "Snow in Milan tomorrow apparently. Time to break out the big coat \ud83e\udd76",
+    "published_at": "02/11/2026",
+    "topic": "tech news",
+    "tags": [
+      "tech_news"
+    ],
+    "sentiment_score": 0.085,
+    "engagement": {
+      "likes": 3883,
+      "shares": 981,
+      "comments": 247
+    }
+  },
+  {
+    "id": "SENT-00082",
+    "user": "@acmhd",
+    "source": "blog",
+    "text": "Venice Film Festival lineup looks incredible this year",
+    "published_at": "08/15/2025",
+    "topic": "Fashion Week",
+    "tags": [
+      "fashion_week"
+    ],
+    "sentiment_score": null,
+    "engagement": {
+      "likes": 865,
+      "shares": 483,
+      "comments": 70
+    }
+  },
+  {
+    "id": "SENT-00055",
+    "user": "@torino_girlmilano",
+    "source": "twitter",
+    "text": "Second star on the chest and we're not stopping here \u2b50\u2b50",
+    "published_at": "2026-02-12T06:59:37Z",
+    "topic": "Inter Milan",
+    "tags": [
+      "football",
+      "inter"
+    ],
+    "sentiment_score": 0.61,
+    "engagement": {
+      "likes": 3738,
+      "shares": 929,
+      "comments": 69
+    }
+  },
+  {
+    "id": "SENT-00133",
+    "user": "@tifoso99",
+    "source": "news",
+    "text": "Can someone explain that offside call to me? Genuinely confused.",
+    "published_at": "2025-12-15T04:34:27Z",
+    "topic": "Transfer Rumors",
+    "tags": [
+      "football",
+      "transfers"
+    ],
+    "sentiment_score": 0.113,
+    "engagement": null
+  },
+  {
+    "id": "SENT-00173",
+    "user": "@tech_bro99",
+    "source": "reddit",
+    "text": "San Siro is OUR home. Derby della Madonnina belongs to us.",
+    "published_at": "2025-11-29T18:09:51Z",
+    "topic": "Inter Milan",
+    "tags": [
+      "football",
+      "inter"
+    ],
+    "sentiment_score": 0.273,
+    "engagement": {
+      "likes": 4957,
+      "shares": 269,
+      "comments": 148
+    }
+  },
+  {
+    "id": "SENT-00252",
+    "user": "@tomoridaily",
+    "source": "reddit",
+    "text": "GDP numbers looking up. Maybe we can afford those match tickets after all \ud83d\ude05",
+    "published_at": "28-Nov-2025",
+    "topic": "Fashion Week",
+    "tags": [
+      "fashion_week"
+    ],
+    "sentiment_score": 0.28,
+    "engagement": {
+      "likes": 1158,
+      "shares": 427,
+      "comments": 789
+    }
+  },
+  {
+    "id": "SENT-00057",
+    "user": "@tech_broita",
+    "source": "twitter",
+    "text": "Scooter almost took me out on Via Torino. Classic Milano.",
+    "published_at": "09/25/2025",
+    "topic": "Tech News",
+    "tags": [
+      "tech_news"
+    ],
+    "sentiment_score": 0.54,
+    "engagement": {
+      "likes": 1361,
+      "shares": 1004,
+      "comments": 776
+    }
+  },
+  {
+    "id": "SENT-00213",
+    "user": "@leao_fan",
+    "source": "twitter",
+    "text": "Theo Hernandez bombing down the left flank gives me life",
+    "published_at": "2025-08-29T14:29:17Z",
+    "topic": "AC Milan",
+    "tags": [
+      "football",
+      "ac_milan"
+    ],
+    "sentiment_score": 0.418,
+    "engagement": {
+      "likes": 415,
+      "shares": 218,
+      "comments": 30
+    }
+  },
+  {
+    "id": "SENT-00257",
+    "user": "@azzurri_real",
+    "source": "blog",
+    "text": "Beautiful sunny day in Milan, perfect for football \u2600\ufe0f",
+    "published_at": "09/23/2025",
+    "topic": "Weather",
+    "tags": [
+      "weather"
+    ],
+    "sentiment_score": 0.794,
+    "engagement": {
+      "likes": 4714,
+      "shares": 418,
+      "comments": 76
+    }
+  },
+  {
+    "id": "SENT-00135",
+    "user": "@tech_bro",
+    "source": "news",
+    "text": "Scooter almost took me out on Via Torino. Classic Milano.",
+    "published_at": "08-Aug-2025",
+    "topic": "F1 Racing",
+    "tags": [
+      "f1_racing"
+    ],
+    "sentiment_score": 0.096,
+    "engagement": {
+      "likes": 1281,
+      "shares": 1031,
+      "comments": 190
+    }
+  }
+]
