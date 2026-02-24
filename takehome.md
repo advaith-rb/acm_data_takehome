@@ -8,7 +8,7 @@
 
 ## Context
 
-This take-home uses **transaction data** and **sentiment/perception data** to estimate whether a customer will attend a soccer match. You will build a prediction model that takes customer features and match context as inputs and outputs an attendance probability with reasoning.
+This take-home consists of transaction and sentiment data on a set of potential customers for a football match. Your objective is to build a data pipeline to **ingest and transform this existing data into well-structured tables and models**, with clear schema contracts and lineage tracking.
 
 ---
 
@@ -23,7 +23,7 @@ If you cut scope, keep the golden path working and explain tradeoffs in the READ
 
 ## Goal
 
-Build a **data pipeline and platform** that:
+Build a **data pipeline** that:
 
 1. **Ingests** the three provided datasets with resilience to bad data
 2. **Validates and cleans** messy inputs (duplicates, missing values, inconsistent formats, schema violations)
