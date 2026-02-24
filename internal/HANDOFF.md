@@ -6,7 +6,7 @@
 
 ## File modified
 
-`/Users/advaithanand/Documents/dev_screen_data/generate_fixtures.py`
+`/acm_data_takehome/internal/generate_fixtures.py`
 
 ## Changes
 
@@ -65,7 +65,7 @@ TIER_AMOUNT_MULT = {"gold": 1.4, "silver": 1.15, "bronze": 1.0, "free": 0.75, ""
 ## Verification
 
 ```bash
-cd /Users/advaithanand/Documents/dev_screen_data
+cd /acm_data_takehome/internal
 python3 generate_fixtures.py
 ```
 
