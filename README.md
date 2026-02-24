@@ -1,6 +1,6 @@
-# Founding Engineer Take-Home — Internal Guide
+# Analytics Engineer Take-Home — Internal Guide
 
-**RedBird Internal** — do not share with candidates.
+**Internal** — do not share with candidates.
 
 ---
 
@@ -12,10 +12,12 @@ data/
   customers.csv              # 204 rows (200 unique customers)
   transactions.csv           # 2,510 rows (2,505 unique transactions)
   sentiment.json             # 269 social media posts
-rb_internal/
-  generate_fixtures.py       # Deterministic data generator (seed=42)
-  DATA_OVERVIEW.md           # Full dataset documentation + embedded patterns
-  handoff.md                 # Changelog for the fixture generator
+internal/
+  DATA_OVERVIEW.md           # Data quality issues and embedded patterns
+  README.md                  # How to run reference solution
+  SOLUTION_OVERVIEW.md       # Architecture and design decisions
+  main.py, pipeline.py, etc. # Reference solution code
+  requirements.txt           # Python dependencies
 ```
 
 ## What Candidates Receive
@@ -23,7 +25,7 @@ rb_internal/
 - `takehome.md` — the assignment brief
 - `data/` — the three fixture files
 
-Candidates do **not** receive `rb_internal/` or this README.
+Candidates do **not** receive `internal/` or this README.
 
 ## Sending to a Candidate
 
@@ -35,7 +37,7 @@ Candidates do **not** receive `rb_internal/` or this README.
 The data is deterministic (seeded). To regenerate after making changes:
 
 ```bash
-cd rb_internal
+cd internal
 python3 generate_fixtures.py
 # Output lands in a fixtures/ directory next to the script
 # Copy the files to data/
@@ -44,7 +46,7 @@ cp fixtures/*.csv fixtures/*.json ../data/
 
 ## Embedded Patterns (What We're Looking For)
 
-The data has intentional demographic correlations that a strong candidate should discover through EDA. See `rb_internal/DATA_OVERVIEW.md` for full details. Quick summary:
+The data has intentional demographic correlations that a strong candidate should discover through EDA. See `internal/DATA_OVERVIEW.md` for full details. Quick summary:
 
 | Signal | Pattern | Why It Matters |
 |--------|---------|----------------|
