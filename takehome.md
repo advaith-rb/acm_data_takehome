@@ -79,14 +79,14 @@ Produce **validation/quality reports** that show:
 
 Transform the raw data into a **clean, queryable data model**. You have full flexibility in schema design, but consider:
 
-### Suggested approach (not mandatory)
+### Suggested approach
 
 - **Dimension tables**: `customers`, `merchants`, `categories` (lookup tables)
 - **Fact table**: `transactions` (normalized, deduplicated, timestamped)
 - **Derived table**: `customer_profile` (aggregated features: total spend, transaction frequency, preferred categories, etc.)
 - **Sentiment table**: `sentiment_posts` (normalized, deduplicated) or `sentiment_daily_summary` (aggregated by topic/date)
 
-### Key responsibilities
+### Key requirements
 
 - **Deduplication**: Remove exact duplicates and handle near-duplicates (e.g., off-by-one errors in amounts)
 - **Normalization**: Standardize formats (dates, currencies, casing, units)
@@ -97,8 +97,6 @@ Transform the raw data into a **clean, queryable data model**. You have full fle
 ---
 
 ## C) Data Governance & Quality
-
-Implement a **data contract** and **ongoing validation layer**:
 
 ### Schema Contracts
 
@@ -137,7 +135,7 @@ You are **free to choose your approach**. Some options:
 - Use dbt for transformation DAG and documentation
 - SQL for all normalization logic
 - dbt tests for data quality
-- dbt can run on top of Postgres, DuckDB, Snowflake (local dev friendly)
+- dbt can run on top of Postgres, DuckDB, Snowflake
 
 ### Option 3: Hybrid
 - Use dbt for transformations + tests
@@ -147,9 +145,8 @@ You are **free to choose your approach**. Some options:
 ### Visualization (Optional)
 
 If you want to surface insights from the clean data, you may use any tool:
-- Metabase / Superset (open source, local)
-- Streamlit / Plotly (Python-based dashboards)
-- Looker / Tableau / Sigma (if you have access)
+- Streamlit / Plotly
+- Looker / Tableau
 - Simple SQL + CSV export + Excel
 
 The goal is **readability and debugging**, not production BI.
@@ -197,7 +194,7 @@ We care about:
 - **Communication**: Can you explain tradeoffs, assumptions, and risks? Do you articulate why your design is maintainable?
 
 We do **not** care about:
-- Perfect model accuracy or insights (this is a generated dataset)
+- Perfect accuracy or insights (this is a generated dataset)
 - Production-grade scalability or optimization
 - Fancy UI or visualization (if you include it, keep it simple)
 - External integrations or APIs
@@ -206,9 +203,9 @@ We do **not** care about:
 
 ## Debrief (1 hour)
 
-In the debrief we'll:
+In the debrief you will:
 
-- Walk through your pipeline and data model
+- Walk us through your pipeline and data model
 - Review data quality checks and governance approach
 - Deep-dive on a tricky data quality issue (how did you handle it?)
 - Discuss how you'd scale the pipeline (new data sources, higher volume, real-time feeds)

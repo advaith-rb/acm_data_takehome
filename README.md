@@ -66,10 +66,10 @@ The data has intentional demographic correlations that a strong candidate should
 
 A strong candidate will:
 
-1. **Clean the data** — handle all the messiness without crashing
-2. **Discover the patterns** — compute features like sports affinity ratio, avg spend by tier, and incorporate them into the prediction model
-3. **Build a clear model boundary** — `ModelClient.predict()` that takes structured features and returns probability + reasoning
-4. **Wire up a usable UI** — customer selection, match config, results with provenance
-5. **Explain tradeoffs** — what they cut, what they'd do with more time
+1. **Load & validate reliably** — ingestion handles missing/invalid rows, parsing errors are logged, pipeline doesn't crash on bad data
+2. **Design clear data models** — staging → cleaned dim/fact tables, schema contracts, and lineage (`_source_row_id`) exist
+3. **Automate quality checks** — validation reports, null-rate/row-count thresholds, orphan/key checks, and freshness tests
+4. **Engineer useful features** — derive customer/context features (recency, sports affinity, tier, ticket history) and surface them in `customer_profile`
+5. **Document & communicate** — README explains how to run, design tradeoffs, and how to reproduce results
 
-A weaker candidate will treat all customers identically and miss the demographic signals entirely.
+A weaker candidate will: crash on bad rows, mix ingestion with prediction logic, lack lineage, or omit automated validation.

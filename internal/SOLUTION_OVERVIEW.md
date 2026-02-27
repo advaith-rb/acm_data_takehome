@@ -294,7 +294,7 @@ class CustomerContract(BaseModel):
     
     class Config:
         table_name = "dim_customers"
-        row_count_threshold = 190  # expect ~200 rows, fail if < 190
+        row_count_threshold = 190  # expect ~200 rows, warns if < 190
 
 class TransactionContract(BaseModel):
     transaction_id: str
@@ -327,37 +327,6 @@ After each run, generate:
     "customer_profile": { "rows": 200, "completeness": 1.0 }
   }
 }
-```
-
----
-
-## Code Structure
-
-```
-reference_solution/
-├── solution_overview.md       # This file
-├── requirements.txt           # pip dependencies
-├── main.py                    # Entry point: orchestrates pipeline
-├── config.py                  # Settings, paths, constants
-├── schema.py                  # Pydantic contracts, table definitions
-├── pipeline.py                # Ingestion: CSV/JSON → raw tables
-├── validation.py              # Validation logic & reporting
-├── transforms.py              # Transformation: raw → clean tables
-├── queries/                   # Reusable SQL fragments
-│   ├── dedupe.sql
-│   ├── normalize.sql
-│   ├── dimensions.sql
-│   ├── facts.sql
-│   └── aggregations.sql
-├── tests/                     # Unit tests (optional but recommended)
-│   ├── test_validation.py
-│   ├── test_transforms.py
-│   └── fixtures.py
-└── output/                    # Generated on run
-    ├── duckdb.db              # The database (SQLite-like file)
-    ├── validation_report.json # Issues found in raw data
-    ├── pipeline_report.json   # Overall run summary
-    └── quality_checks.json    # Post-transform validation results
 ```
 
 ---
