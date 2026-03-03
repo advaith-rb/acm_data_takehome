@@ -14,10 +14,10 @@ This take-home consists of transaction and sentiment data on a set of potential 
 
 ## Timebox
 
-Please spend **~3-4 hours total** across the 24 hours you are given with the assignment. 
+Please spend no more than **~5-10 hours in total** on this assignment. 
 Use AI tools freely. We're evaluating your approach to data integration, pipeline design, schema governance, and engineering judgment. While we expect you to generate code using AI tooling (Cursor, Claude Code, etc.), we do expect you to have an understanding of the system implemented and describe design decisions, even if you didn't write the majority of the code. 
 
-If you cut scope, keep the golden path working and explain tradeoffs in the README.
+If you decide to reduce scope, make sure to explain future developments and tradeoffs in the README.
 
 ---
 
@@ -58,9 +58,9 @@ You should **not need external API keys or live data sources.**
 
 Your system must be able to:
 
-- **Load** the three datasets without crashing on missing/invalid data
-- **Detect and log** data quality issues (missing rates, duplicates, schema violations, orphan keys)
-- **Describe** key characteristics of each source (row counts, unique values, null patterns)
+- **Load** the three datasets without crashing on invalid data
+- **Detect** data quality issues (missing rates, duplicates, schema violations)
+- **Describe** key characteristics (row counts, unique values, null patterns)
 
 Your approach should be **resilient**: bad rows should not cause the pipeline to fail; instead, you should log issues and decide on a handling strategy (skip, impute, flag for review).
 
@@ -149,8 +149,6 @@ If you want to surface insights from the clean data, you may use any tool:
 - Looker / Tableau
 - Simple SQL + CSV export + Excel
 
-The goal is **readability and debugging**, not production BI.
-
 ---
 
 ## E) Deliverables
@@ -185,7 +183,7 @@ You should produce:
 
 ## Evaluation Criteria
 
-We care about:
+We care for:
 
 - **Data Architecture**: Is your schema design sound? Are fact/dimension tables well-separated? Can it scale to more data sources?
 - **Data Quality & Governance**: Do you validate inputs? Are quality checks automated? Can you debug issues end-to-end?
@@ -193,7 +191,7 @@ We care about:
 - **Code & Documentation**: Is your code readable and modular? Are transformation steps clear? Can someone else understand your choices?
 - **Communication**: Can you explain tradeoffs, assumptions, and risks? Do you articulate why your design is maintainable?
 
-We do **not** care about:
+We do **not** care for:
 - Perfect accuracy or insights (this is a generated dataset)
 - Production-grade scalability or optimization
 - Fancy UI or visualization (if you include it, keep it simple)
@@ -220,4 +218,4 @@ In the debrief you will:
   - README as described above
   - Sample outputs (e.g., exported clean tables, validation reports)
   - Any documentation or architecture diagrams
-- Any notes or assumptions you want us to know (optional)
+- Any notes or assumptions you want us to know
