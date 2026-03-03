@@ -2,7 +2,7 @@
 
 ## Customer Transaction Data Platform
 
-**Version:** February 2026
+**Version:** March 2026
 
 ---
 
